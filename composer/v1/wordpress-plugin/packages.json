@@ -1659,25 +1659,6 @@
                     "arnaud-ritti/gravityforms-installer": "^1.0",
                     "composer/installers": "^1.0 || ^2.0"
                 }
-            },
-            "0": {
-                "name": "gravityforms/paypalexpresscheckout",
-                "description": "PayPal Express Checkout Add-On",
-                "version": false,
-                "type": "wordpress-plugin",
-                "license": "GPL-2.0-or-later",
-                "support": {
-                    "docs": ""
-                },
-                "homepage": "",
-                "dist": {
-                    "type": "zip",
-                    "url": "https://gravityapi.com/wp-content/plugins/gravitymanager/api.php?op=get_plugin&slug=gravityformspaypalexpresscheckout"
-                },
-                "require": {
-                    "arnaud-ritti/gravityforms-installer": "^1.0",
-                    "composer/installers": "^1.0 || ^2.0"
-                }
             }
         },
         "gravityforms/paypalpaymentspro": {
