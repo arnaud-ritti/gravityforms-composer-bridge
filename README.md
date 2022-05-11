@@ -1,6 +1,6 @@
 # Gravity Forms Composer Bridge
 
-[![Build Status](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Factions-badge.atrox.dev%2Farnaud-ritti%2Fgravityforms-composer-bridge%2Fbadge&style=for-the-badge)](https://actions-badge.atrox.dev/arnaud-ritti/gravityforms-composer-bridge/goto)
+[![Build Status](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Factions-badge.atrox.dev%2Farnaud-ritti%2Fgravityforms-composer-bridge%2Fbadge%3Fref%3Dmain&style=flat)](https://actions-badge.atrox.dev/arnaud-ritti/gravityforms-composer-bridge/goto?ref=main)
 
 This repository acts as a bridge to use the excellent [Gravity Forms](https://www.gravityforms.com/)
 Wordpress plugin together with [Composer](https://getcomposer.org)/[Bedrock](https://roots.io/bedrock/).
