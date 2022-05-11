@@ -67,7 +67,7 @@ foreach ($plugins as $plugin) {
 
 
 foreach($data as $type => $entries){
-    $output = json_encode((object)$entries['packages'], JSON_PRETTY_PRINT | JSON_UNESCAPED_SLASHES);
+    $output = json_encode((object)$entries, JSON_PRETTY_PRINT | JSON_UNESCAPED_SLASHES);
     $outputDir = __DIR__ . "/composer/v" . $repoVersion;
     if (!is_dir($outputDir . "/{$type}")) {
         mkdir($outputDir . "/{$type}", 0777, true);
