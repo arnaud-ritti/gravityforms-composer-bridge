@@ -59,7 +59,9 @@ foreach ($plugins as $plugin) {
             }
             $versions = [];
             $versions['dev-master'] = createPackage($details, 'dev-master', $type);
-            $versions[$details["version_latest"]] = createPackage($details, $details["version_latest"], $type);
+            if(!empty($details["version_latest"])){
+                $versions[$details["version_latest"]] = createPackage($details, $details["version_latest"], $type);
+            }
             $data[$type]['packages'][sprintf("gravityforms/%s", getSlug($details["name"]))] = $versions;
         }
     }
