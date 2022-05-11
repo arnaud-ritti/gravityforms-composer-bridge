@@ -1,21 +1,9 @@
-# Advanced Custom Fields Pro Composer Bridge
+# Gravity Forms Composer Bridge
 
-[![Build Status](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Factions-badge.atrox.dev%2Fpivvenit%2Facf-composer-bridge%2Fbadge&style=for-the-badge)](https://actions-badge.atrox.dev/pivvenit/acf-composer-bridge/goto)
+[![Build Status](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Factions-badge.atrox.dev%2Farnaud-ritti%2Fgravityforms-composer-bridge%2Fbadge&style=for-the-badge)](https://actions-badge.atrox.dev/arnaud-ritti/gravityforms-composer-bridge/goto)
 
-This repository acts as a bridge to use the excellent [Advanced Custom Fields Pro](https://www.advancedcustomfields.com/pro/)
+This repository acts as a bridge to use the excellent [Gravity Forms](https://www.gravityforms.com/)
 Wordpress plugin together with [Composer](https://getcomposer.org)/[Bedrock](https://roots.io/bedrock/).
-
-## :warning: Native Dependabot warning :warning: ##
-Dependabot Preview will be shut down on August 3rd, 2021 and will be replaced by the new Dependabot integration.
-However, this new integration does not support environment variables that are used by [our acf-pro-installer](https://github.com/pivvenit/acf-pro-installer).
-
-We have created a (temporary) workaround for this use case: https://github.com/pivvenit/acf-pro-installer/issues/222#issuecomment-890359373.
-To summarise, we've published an authenticated Composer repository that uses the licensekey you provide via Basic authentication to download the file from ACF's server.
-The status of this workaround will be updated in the issue mentioned above.
-
-## Breaking change between v2 and V3 ##
-As `composer/installers` is added to the dependencies of all provided packages, the default installation folder is changed.
-It is recommended to switch to V3, but *ensure ACF Pro ends up in the folder you except when installing* to ensure your code does not break. [This composer manual page](https://getcomposer.org/doc/faqs/how-do-i-install-a-package-to-a-custom-path-for-my-framework.md) describes how to modify the install path. You can find a few examples at the end of this readme.
 
 ## How to install
 **1. Add the desired repository to the repositories field in composer.json**
@@ -28,26 +16,26 @@ Use this version if you are unsure which version to use.
 ```json
 {
   "type": "composer",
-  "url": "https://pivvenit.github.io/acf-composer-bridge/composer/v3/wordpress-plugin/"
+  "url": "https://arnaud-ritti.github.io/gravityforms-composer-bridge/composer/v1/wordpress-plugin/"
 }
 ```
 ***Wordpress Packagist Must-Use plugin***
 
-Use this version if you want ACF installed as MU-plugin.
+Use this version if you want Gravity Forms installed as MU-plugin.
 ```json
 {
   "type": "composer",
-  "url": "https://pivvenit.github.io/acf-composer-bridge/composer/v3/wordpress-muplugin/"
+  "url": "https://arnaud-ritti.github.io/gravityforms-composer-bridge/composer/v1/wordpress-muplugin/"
 }
 ```
 
 ***Wordpress wpackagist plugin type***
 
-Use this repository URL if you use the (seemingly deprecated) `wpackagist-plugin` plugin type.
+Use this repository URL if you use the `wpackagist-plugin` plugin type.
 ```json
 {
   "type": "composer",
-  "url": "https://pivvenit.github.io/acf-composer-bridge/composer/v3/wpackagist-plugin/"
+  "url": "https://arnaud-ritti.github.io/gravityforms-composer-bridge/composer/v1/wpackagist-plugin/"
 }
 ```
 
@@ -58,48 +46,55 @@ To install the plugin in the `vendor` directory.
 ```json
 {
   "type": "composer",
-  "url": "https://pivvenit.github.io/acf-composer-bridge/composer/v3/library/"
+  "url": "https://arnaud-ritti.github.io/gravityforms-composer-bridge/composer/v1/library/"
 }
 ```
 
 **2. Make your ACF PRO key available**
 
-Set the environment variable **`ACF_PRO_KEY`** to your ACF PRO key.
+Set the environment variable **`GRAVITYFORMS_KEY`**.
 
 Alternatively you can add an entry to your **`.env`** file:
 
 ```ini
 # .env (same directory as composer.json)
-ACF_PRO_KEY=Your-Key-Here
+GRAVITYFORMS_KEY=Your-Key-Here
 ```
 
-**3. Require ACF PRO**
+**3. Require Gravity Forms**
 
-You can now use composer as usual, to include any version of advanced-custom-fields-pro
+You can now use composer as usual
 ```sh
-composer require advanced-custom-fields/advanced-custom-fields-pro
+composer require gravityforms/gravityforms
 ```
+
+***3.b. Require an add-on***
+
+```sh
+composer require gravityforms/<slug>
+```
+
 ## How does it work
 This Github repository is a 'Composer repository'.
 Actually a composer repository is simply a packages.json served from a webserver.
 This repository uses Github Actions to periodically create a packages.json that references 
-the files provided by ACF. Please note that these files require a valid license key that is **not provided** by this repository.
-In order to append this license key to the files, [https://github.com/pivvenit/acf-pro-installer](https://github.com/pivvenit/acf-pro-installer) is used.
-This installer detects that you want to install advanced custom fields, and then appends the provided private key (via environment variable) to the actual download URL on ACF's servers (so the key is never send to this composer repository).
+the files provided by Gravity Forms. Please note that these files require a valid license key that is **not provided** by this repository.
+In order to append this license key to the files, [https://github.com/arnaud-ritti/gravityforms-installer](https://github.com/arnaud-ritti/gravityforms-installer) is used.
+This installer detects that you want to install advanced custom fields, and then appends the provided private key (via environment variable) to the actual download URL on servers (so the key is never send to this composer repository).
 
 ## Available versions
-See [https://pivvenit.github.io/acf-composer-bridge/composer/v3/wpackagist-plugin/packages.json](https://pivvenit.github.io/acf-composer-bridge/composer/v3/packages.json)
+See [https://arnaud-ritti.github.io/gravityforms-composer-bridge/composer/v1/wpackagist-plugin/packages.json](https://arnaud-ritti.github.io/gravityforms-composer-bridge/composer/v1/packages.json)
 
 ## Example(s)
 
-1. Installs ACF Pro as mu-plugin in web/app/mu-plugins/advanced-custom-fields-pro
+1. Installs Gravity Forms as mu-plugin in web/app/mu-plugins/gravityforms
 ```json
 {
   "name": "example/test",
   "repositories": [
     {
       "type": "composer",
-      "url": "https://pivvenit.github.io/acf-composer-bridge/composer/v3/wordpress-muplugin/"
+      "url": "https://arnaud-ritti.github.io/gravityforms-composer-bridge/composer/v1/wordpress-muplugin/"
     },
     {
       "type": "composer",
@@ -107,7 +102,7 @@ See [https://pivvenit.github.io/acf-composer-bridge/composer/v3/wpackagist-plugi
     }
   ],
   "require": {
-    "advanced-custom-fields/advanced-custom-fields-pro": "^5.8.8"
+      "gravityforms/gravityforms": "^2.6.3"
   },
   "extra": {
     "installer-paths": {
@@ -117,14 +112,14 @@ See [https://pivvenit.github.io/acf-composer-bridge/composer/v3/wpackagist-plugi
 }
 ```
 
-2. Installs ACF Pro as plugin in wp-content/plugins/advanced-custom-fields-pro
+2. Installs Gravity Forms as plugin in wp-content/plugins/gravityforms
 ```json
 {
     "name": "example/test",
     "repositories": [
       {
         "type": "composer",
-        "url": "https://pivvenit.github.io/acf-composer-bridge/composer/v3/wordpress-plugin/"
+        "url": "https://arnaud-ritti.github.io/gravityforms-composer-bridge/composer/v1/wordpress-plugin/"
       },
       {
         "type": "composer",
@@ -132,7 +127,7 @@ See [https://pivvenit.github.io/acf-composer-bridge/composer/v3/wpackagist-plugi
       }
     ],
     "require": {
-      "advanced-custom-fields/advanced-custom-fields-pro": "^5.8.8"
+      "gravityforms/gravityforms": "^2.6.3"
     },
     "extra": {
       "installer-paths": {
