@@ -5,6 +5,10 @@
 This repository acts as a bridge to use the excellent [Gravity Forms](https://www.gravityforms.com/)
 Wordpress plugin together with [Composer](https://getcomposer.org)/[Bedrock](https://roots.io/bedrock/).
 
+## :warning: Your are using dependabot to manage your dependencies ?
+
+Please check the related [documention file](dependabot_usage.md).
+
 ## How to install
 **1. Add the desired repository to the repositories field in composer.json**
 
