@@ -1,0 +1,3 @@
+name = "gf-composer-proxy"
+main = "src/index.js"
+compatibility_date = "2022-06-10"
