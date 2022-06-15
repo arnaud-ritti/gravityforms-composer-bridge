@@ -1100,10 +1100,10 @@
                     "composer/installers": "^1.0 || ^2.0"
                 }
             },
-            "1.0-rc-1": {
+            "1.0": {
                 "name": "gravityforms/googleanalytics",
                 "description": "Google Analytics Add-On",
-                "version": "1.0-rc-1",
+                "version": "1.0",
                 "type": "wpackagist-plugin",
                 "license": "GPL-2.0-or-later",
                 "support": {
@@ -2201,10 +2201,10 @@
                     "composer/installers": "^1.0 || ^2.0"
                 }
             },
-            "4.2": {
+            "4.3": {
                 "name": "gravityforms/signature",
                 "description": "Signature Add-On",
-                "version": "4.2",
+                "version": "4.3",
                 "type": "wpackagist-plugin",
                 "license": "GPL-2.0-or-later",
                 "support": {
