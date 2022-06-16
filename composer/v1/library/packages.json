@@ -1090,7 +1090,7 @@
                 "support": {
                     "docs": "https://docs.gravityforms.com/category/add-ons-gravity-forms/google-analytics-add-on/"
                 },
-                "homepage": "",
+                "homepage": "https://www.gravityforms.com/add-ons/google-analytics/",
                 "dist": {
                     "type": "zip",
                     "url": "https://gravityapi.com/wp-content/plugins/gravitymanager/api.php?op=get_plugin&slug=gravityformsgoogleanalytics"
@@ -1109,7 +1109,7 @@
                 "support": {
                     "docs": "https://docs.gravityforms.com/category/add-ons-gravity-forms/google-analytics-add-on/"
                 },
-                "homepage": "",
+                "homepage": "https://www.gravityforms.com/add-ons/google-analytics/",
                 "dist": {
                     "type": "zip",
                     "url": "https://gravityapi.com/wp-content/plugins/gravitymanager/api.php?op=get_plugin&slug=gravityformsgoogleanalytics"
