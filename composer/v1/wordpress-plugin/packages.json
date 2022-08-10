@@ -580,10 +580,10 @@
                     "composer/installers": "^1.0 || ^2.0"
                 }
             },
-            "1.5": {
+            "1.5.1": {
                 "name": "gravityforms/chainedselects",
                 "description": "Chained Selects Add-On",
-                "version": "1.5",
+                "version": "1.5.1",
                 "type": "wordpress-plugin",
                 "license": "GPL-2.0-or-later",
                 "support": {
