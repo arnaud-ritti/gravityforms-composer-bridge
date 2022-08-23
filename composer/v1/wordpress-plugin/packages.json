@@ -20,10 +20,10 @@
                     "composer/installers": "^1.0 || ^2.0"
                 }
             },
-            "2.6.5.1": {
+            "2.6.6": {
                 "name": "gravityforms/gravityforms",
                 "description": "Gravity Forms",
-                "version": "2.6.5.1",
+                "version": "2.6.6",
                 "type": "wordpress-plugin",
                 "license": "GPL-2.0-or-later",
                 "support": {
@@ -48,7 +48,7 @@
                 "type": "wordpress-plugin",
                 "license": "GPL-2.0-or-later",
                 "support": {
-                    "docs": "https://docs.gravityforms.com/?s=Gravity+Forms+2.6"
+                    "docs": "https://docs.gravityforms.com/?s=Gravity+Forms+2.7"
                 },
                 "homepage": "https://gravityforms.com",
                 "dist": {
@@ -60,14 +60,14 @@
                     "composer/installers": "^1.0 || ^2.0"
                 }
             },
-            "2.6-rc-1": {
+            "2.7-beta-1": {
                 "name": "gravityforms/gravityforms-beta",
                 "description": "Gravity Forms (Beta)",
-                "version": "2.6-rc-1",
+                "version": "2.7-beta-1",
                 "type": "wordpress-plugin",
                 "license": "GPL-2.0-or-later",
                 "support": {
-                    "docs": "https://docs.gravityforms.com/?s=Gravity+Forms+2.6"
+                    "docs": "https://docs.gravityforms.com/?s=Gravity+Forms+2.7"
                 },
                 "homepage": "https://gravityforms.com",
                 "dist": {
