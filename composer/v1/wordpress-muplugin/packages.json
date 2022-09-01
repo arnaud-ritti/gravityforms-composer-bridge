@@ -2341,6 +2341,46 @@
                 }
             }
         },
+        "gravityforms/stripe-beta": {
+            "dev-master": {
+                "name": "gravityforms/stripe-beta",
+                "description": "Stripe 5.0 (Beta)",
+                "version": "dev-master",
+                "type": "wordpress-muplugin",
+                "license": "GPL-2.0-or-later",
+                "support": {
+                    "docs": "https://docs.gravityforms.com/category/stripe-add-on/"
+                },
+                "homepage": "https://www.gravityforms.com/add-ons/stripe",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://gravityapi.com/wp-content/plugins/gravitymanager/api.php?op=get_plugin&slug=gravityformsstripe-beta"
+                },
+                "require": {
+                    "arnaud-ritti/gravityforms-installer": "^1.0",
+                    "composer/installers": "^1.0 || ^2.0"
+                }
+            },
+            "5.0-beta-1": {
+                "name": "gravityforms/stripe-beta",
+                "description": "Stripe 5.0 (Beta)",
+                "version": "5.0-beta-1",
+                "type": "wordpress-muplugin",
+                "license": "GPL-2.0-or-later",
+                "support": {
+                    "docs": "https://docs.gravityforms.com/category/stripe-add-on/"
+                },
+                "homepage": "https://www.gravityforms.com/add-ons/stripe",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://gravityapi.com/wp-content/plugins/gravitymanager/api.php?op=get_plugin&slug=gravityformsstripe-beta"
+                },
+                "require": {
+                    "arnaud-ritti/gravityforms-installer": "^1.0",
+                    "composer/installers": "^1.0 || ^2.0"
+                }
+            }
+        },
         "gravityforms/survey": {
             "dev-master": {
                 "name": "gravityforms/survey",
@@ -2654,27 +2694,6 @@
                 "dist": {
                     "type": "zip",
                     "url": "https://gravityapi.com/wp-content/plugins/gravitymanager/api.php?op=get_plugin&slug=gravityformszohocrm"
-                },
-                "require": {
-                    "arnaud-ritti/gravityforms-installer": "^1.0",
-                    "composer/installers": "^1.0 || ^2.0"
-                }
-            }
-        },
-        "gravityforms/stripe-beta": {
-            "dev-master": {
-                "name": "gravityforms/stripe-beta",
-                "description": "Stripe 5.0 (Beta)",
-                "version": "dev-master",
-                "type": "wordpress-muplugin",
-                "license": "GPL-2.0-or-later",
-                "support": {
-                    "docs": "https://docs.gravityforms.com/category/stripe-add-on/"
-                },
-                "homepage": "https://www.gravityforms.com/add-ons/stripe",
-                "dist": {
-                    "type": "zip",
-                    "url": "https://gravityapi.com/wp-content/plugins/gravitymanager/api.php?op=get_plugin&slug=stripe-beta"
                 },
                 "require": {
                     "arnaud-ritti/gravityforms-installer": "^1.0",
