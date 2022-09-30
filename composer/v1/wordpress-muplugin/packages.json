@@ -1100,10 +1100,10 @@
                     "composer/installers": "^1.0 || ^2.0"
                 }
             },
-            "1.0": {
+            "1.0.1": {
                 "name": "gravityforms/googleanalytics",
                 "description": "Google Analytics Add-On",
-                "version": "1.0",
+                "version": "1.0.1",
                 "type": "wordpress-muplugin",
                 "license": "GPL-2.0-or-later",
                 "support": {
