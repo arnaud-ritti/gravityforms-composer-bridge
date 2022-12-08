@@ -1528,7 +1528,7 @@
                 "type": "wordpress-muplugin",
                 "license": "GPL-2.0-or-later",
                 "support": {
-                    "docs": ""
+                    "docs": "https://docs.gravityforms.com/category/add-ons-gravity-forms/moderation-add-on/"
                 },
                 "homepage": "https://www.gravityforms.com/add-ons/moderation/",
                 "dist": {
@@ -1547,7 +1547,7 @@
                 "type": "wordpress-muplugin",
                 "license": "GPL-2.0-or-later",
                 "support": {
-                    "docs": ""
+                    "docs": "https://docs.gravityforms.com/category/add-ons-gravity-forms/moderation-add-on/"
                 },
                 "homepage": "https://www.gravityforms.com/add-ons/moderation/",
                 "dist": {
