@@ -763,14 +763,33 @@
         "gravityforms/conversationalforms": {
             "dev-master": {
                 "name": "gravityforms/conversationalforms",
-                "description": "Conversational Forms",
+                "description": "Conversational Forms Add-On",
                 "version": "dev-master",
                 "type": "wpackagist-plugin",
                 "license": "GPL-2.0-or-later",
                 "support": {
                     "docs": ""
                 },
-                "homepage": "https://www.gravityforms.com/add-ons/conversationalforms",
+                "homepage": "https://docs.gravityforms.com/category/conversational-forms/",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://gravityapi.com/wp-content/plugins/gravitymanager/api.php?op=get_plugin&slug=gravityformsconversationalforms"
+                },
+                "require": {
+                    "arnaud-ritti/gravityforms-installer": "^1.0",
+                    "composer/installers": "^1.0 || ^2.0"
+                }
+            },
+            "1.0-beta-1": {
+                "name": "gravityforms/conversationalforms",
+                "description": "Conversational Forms Add-On",
+                "version": "1.0-beta-1",
+                "type": "wpackagist-plugin",
+                "license": "GPL-2.0-or-later",
+                "support": {
+                    "docs": ""
+                },
+                "homepage": "https://docs.gravityforms.com/category/conversational-forms/",
                 "dist": {
                     "type": "zip",
                     "url": "https://gravityapi.com/wp-content/plugins/gravitymanager/api.php?op=get_plugin&slug=gravityformsconversationalforms"
@@ -1544,7 +1563,7 @@
         "gravityforms/moderation": {
             "dev-master": {
                 "name": "gravityforms/moderation",
-                "description": "Moderation",
+                "description": "Moderation Add-On",
                 "version": "dev-master",
                 "type": "wpackagist-plugin",
                 "license": "GPL-2.0-or-later",
@@ -1563,7 +1582,7 @@
             },
             "1.0-beta-1": {
                 "name": "gravityforms/moderation",
-                "description": "Moderation",
+                "description": "Moderation Add-On",
                 "version": "1.0-beta-1",
                 "type": "wpackagist-plugin",
                 "license": "GPL-2.0-or-later",
