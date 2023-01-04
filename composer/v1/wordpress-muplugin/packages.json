@@ -60,10 +60,10 @@
                     "composer/installers": "^1.0 || ^2.0"
                 }
             },
-            "2.7-rc-1": {
+            "2.7-rc-2": {
                 "name": "gravityforms/gravityforms-beta",
                 "description": "Gravity Forms (Beta)",
-                "version": "2.7-rc-1",
+                "version": "2.7-rc-2",
                 "type": "wordpress-muplugin",
                 "license": "GPL-2.0-or-later",
                 "support": {
@@ -753,6 +753,27 @@
                 "dist": {
                     "type": "zip",
                     "url": "https://gravityapi.com/wp-content/plugins/gravitymanager/api.php?op=get_plugin&slug=gravityformsconstantcontact"
+                },
+                "require": {
+                    "arnaud-ritti/gravityforms-installer": "^1.0",
+                    "composer/installers": "^1.0 || ^2.0"
+                }
+            }
+        },
+        "gravityforms/conversationalforms": {
+            "dev-master": {
+                "name": "gravityforms/conversationalforms",
+                "description": "Conversational Forms",
+                "version": "dev-master",
+                "type": "wordpress-muplugin",
+                "license": "GPL-2.0-or-later",
+                "support": {
+                    "docs": ""
+                },
+                "homepage": "https://www.gravityforms.com/add-ons/conversationalforms",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://gravityapi.com/wp-content/plugins/gravitymanager/api.php?op=get_plugin&slug=gravityformsconversationalforms"
                 },
                 "require": {
                     "arnaud-ritti/gravityforms-installer": "^1.0",
