@@ -768,7 +768,7 @@
                 "type": "wordpress-muplugin",
                 "license": "GPL-2.0-or-later",
                 "support": {
-                    "docs": ""
+                    "docs": "https://docs.gravityforms.com/category/conversational-forms/"
                 },
                 "homepage": "https://docs.gravityforms.com/category/conversational-forms/",
                 "dist": {
@@ -787,7 +787,7 @@
                 "type": "wordpress-muplugin",
                 "license": "GPL-2.0-or-later",
                 "support": {
-                    "docs": ""
+                    "docs": "https://docs.gravityforms.com/category/conversational-forms/"
                 },
                 "homepage": "https://docs.gravityforms.com/category/conversational-forms/",
                 "dist": {
@@ -1073,6 +1073,46 @@
                 "dist": {
                     "type": "zip",
                     "url": "https://gravityapi.com/wp-content/plugins/gravitymanager/api.php?op=get_plugin&slug=gravityformsfreshbooks"
+                },
+                "require": {
+                    "arnaud-ritti/gravityforms-installer": "^1.0",
+                    "composer/installers": "^1.0 || ^2.0"
+                }
+            }
+        },
+        "gravityforms/geolocation": {
+            "dev-master": {
+                "name": "gravityforms/geolocation",
+                "description": "Geolocation Add-On",
+                "version": "dev-master",
+                "type": "wordpress-muplugin",
+                "license": "GPL-2.0-or-later",
+                "support": {
+                    "docs": "https://docs.gravityforms.com/category/geolocation"
+                },
+                "homepage": "https://docs.gravityforms.com/category/geolocation",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://gravityapi.com/wp-content/plugins/gravitymanager/api.php?op=get_plugin&slug=gravityformsgeolocation"
+                },
+                "require": {
+                    "arnaud-ritti/gravityforms-installer": "^1.0",
+                    "composer/installers": "^1.0 || ^2.0"
+                }
+            },
+            "1.0": {
+                "name": "gravityforms/geolocation",
+                "description": "Geolocation Add-On",
+                "version": "1.0",
+                "type": "wordpress-muplugin",
+                "license": "GPL-2.0-or-later",
+                "support": {
+                    "docs": "https://docs.gravityforms.com/category/geolocation"
+                },
+                "homepage": "https://docs.gravityforms.com/category/geolocation",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://gravityapi.com/wp-content/plugins/gravitymanager/api.php?op=get_plugin&slug=gravityformsgeolocation"
                 },
                 "require": {
                     "arnaud-ritti/gravityforms-installer": "^1.0",
