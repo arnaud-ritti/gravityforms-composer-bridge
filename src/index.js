@@ -58,18 +58,22 @@ async function handleRequest(request) {
 
     switch (pathname) {
         case "/wordpress-plugin/packages.json":
+        case "/wordpress-plugin":
             url = "https://arnaud-ritti.github.io/gravityforms-composer-bridge/composer/v1/wordpress-plugin/packages.json";
             return getPackages(url);
             break;
         case "/wordpress-muplugin/packages.json":
+        case "/wordpress-muplugin":
             url = "https://arnaud-ritti.github.io/gravityforms-composer-bridge/composer/v1/wordpress-muplugin/packages.json"
             return getPackages(url);
             break;
         case "/library/packages.json":
+        case "/library":
             url = "https://arnaud-ritti.github.io/gravityforms-composer-bridge/composer/v1/library/packages.json"
             return getPackages(url);
             break;
         case "/wpackagist-plugin/packages.json":
+        case "/wpackagist-plugin":
             url = "https://arnaud-ritti.github.io/gravityforms-composer-bridge/composer/v1/wpackagist-plugin/packages.json"
             return getPackages(url);
             break;
