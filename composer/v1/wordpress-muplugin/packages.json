@@ -1088,9 +1088,9 @@
                 "type": "wordpress-muplugin",
                 "license": "GPL-2.0-or-later",
                 "support": {
-                    "docs": "https://docs.gravityforms.com/category/geolocation"
+                    "docs": "https://docs.gravityforms.com/category/add-ons-gravity-forms/geolocation-add-on/"
                 },
-                "homepage": "https://docs.gravityforms.com/category/geolocation",
+                "homepage": "https://docs.gravityforms.com/category/add-ons-gravity-forms/geolocation-add-on/",
                 "dist": {
                     "type": "zip",
                     "url": "https://gravityapi.com/wp-content/plugins/gravitymanager/api.php?op=get_plugin&slug=gravityformsgeolocation"
@@ -1107,9 +1107,9 @@
                 "type": "wordpress-muplugin",
                 "license": "GPL-2.0-or-later",
                 "support": {
-                    "docs": "https://docs.gravityforms.com/category/geolocation"
+                    "docs": "https://docs.gravityforms.com/category/add-ons-gravity-forms/geolocation-add-on/"
                 },
-                "homepage": "https://docs.gravityforms.com/category/geolocation",
+                "homepage": "https://docs.gravityforms.com/category/add-ons-gravity-forms/geolocation-add-on/",
                 "dist": {
                     "type": "zip",
                     "url": "https://gravityapi.com/wp-content/plugins/gravitymanager/api.php?op=get_plugin&slug=gravityformsgeolocation"
