@@ -2321,10 +2321,10 @@
                     "composer/installers": "^1.0 || ^2.0"
                 }
             },
-            "4.3": {
+            "4.4": {
                 "name": "gravityforms/signature",
                 "description": "Signature Add-On",
-                "version": "4.3",
+                "version": "4.4",
                 "type": "wpackagist-muplugin",
                 "license": "GPL-2.0-or-later",
                 "support": {
