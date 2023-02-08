@@ -580,10 +580,10 @@
                     "composer/installers": "^1.0 || ^2.0"
                 }
             },
-            "1.6": {
+            "1.6.1": {
                 "name": "gravityforms/capsulecrm",
                 "description": "Capsule CRM Add-On",
-                "version": "1.6",
+                "version": "1.6.1",
                 "type": "library",
                 "license": "GPL-2.0-or-later",
                 "support": {
@@ -1300,10 +1300,10 @@
                     "composer/installers": "^1.0 || ^2.0"
                 }
             },
-            "2.1": {
+            "2.1.1": {
                 "name": "gravityforms/helpscout",
                 "description": "Help Scout Add-On",
-                "version": "2.1",
+                "version": "2.1.1",
                 "type": "library",
                 "license": "GPL-2.0-or-later",
                 "support": {
@@ -1580,10 +1580,10 @@
                     "composer/installers": "^1.0 || ^2.0"
                 }
             },
-            "5.1.1": {
+            "5.1.2": {
                 "name": "gravityforms/mailchimp",
                 "description": "Mailchimp Add-On",
-                "version": "5.1.1",
+                "version": "5.1.2",
                 "type": "library",
                 "license": "GPL-2.0-or-later",
                 "support": {
