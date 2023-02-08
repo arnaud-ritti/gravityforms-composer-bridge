@@ -20,10 +20,10 @@
                     "composer/installers": "^1.0 || ^2.0"
                 }
             },
-            "2.6.9": {
+            "2.7": {
                 "name": "gravityforms/gravityforms",
                 "description": "Gravity Forms",
-                "version": "2.6.9",
+                "version": "2.7",
                 "type": "wpackagist-plugin",
                 "license": "GPL-2.0-or-later",
                 "support": {
@@ -83,33 +83,14 @@
         "gravityforms/-release": {
             "dev-master": {
                 "name": "gravityforms/-release",
-                "description": "Gravity Forms (release)",
+                "description": "gravityforms-release",
                 "version": "dev-master",
                 "type": "wpackagist-plugin",
                 "license": "GPL-2.0-or-later",
                 "support": {
-                    "docs": "https://docs.gravityforms.com"
+                    "docs": false
                 },
-                "homepage": "https://gravityforms.com",
-                "dist": {
-                    "type": "zip",
-                    "url": "https://gravityapi.com/wp-content/plugins/gravitymanager/api.php?op=get_plugin&slug=gravityforms-release"
-                },
-                "require": {
-                    "arnaud-ritti/gravityforms-installer": "^1.0",
-                    "composer/installers": "^1.0 || ^2.0"
-                }
-            },
-            "2.7": {
-                "name": "gravityforms/-release",
-                "description": "Gravity Forms (release)",
-                "version": "2.7",
-                "type": "wpackagist-plugin",
-                "license": "GPL-2.0-or-later",
-                "support": {
-                    "docs": "https://docs.gravityforms.com"
-                },
-                "homepage": "https://gravityforms.com",
+                "homepage": false,
                 "dist": {
                     "type": "zip",
                     "url": "https://gravityapi.com/wp-content/plugins/gravitymanager/api.php?op=get_plugin&slug=gravityforms-release"
