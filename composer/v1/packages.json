@@ -1921,10 +1921,10 @@
                     "composer/installers": "^1.0 || ^2.0"
                 }
             },
-            "1.3": {
+            "1.3.1": {
                 "name": "gravityforms/pipe",
                 "description": "Pipe Add-On",
-                "version": "1.3",
+                "version": "1.3.1",
                 "type": "wpackagist-plugin",
                 "license": "GPL-2.0-or-later",
                 "support": {
