@@ -1180,10 +1180,10 @@
                     "composer/installers": "^1.0 || ^2.0"
                 }
             },
-            "1.2": {
+            "1.2.1": {
                 "name": "gravityforms/googleanalytics",
                 "description": "Google Analytics Add-On",
-                "version": "1.2",
+                "version": "1.2.1",
                 "type": "library",
                 "license": "GPL-2.0-or-later",
                 "support": {
@@ -1961,10 +1961,10 @@
                     "composer/installers": "^1.0 || ^2.0"
                 }
             },
-            "4.0": {
+            "4.0.1": {
                 "name": "gravityforms/polls",
                 "description": "Polls Add-On",
-                "version": "4.0",
+                "version": "4.0.1",
                 "type": "library",
                 "license": "GPL-2.0-or-later",
                 "support": {
