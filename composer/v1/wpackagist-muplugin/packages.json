@@ -340,10 +340,10 @@
                     "composer/installers": "^1.0 || ^2.0"
                 }
             },
-            "2.11.1": {
+            "2.11.2": {
                 "name": "gravityforms/aweber",
                 "description": "AWeber Add-On",
-                "version": "2.11.1",
+                "version": "2.11.2",
                 "type": "wpackagist-muplugin",
                 "license": "GPL-2.0-or-later",
                 "support": {
