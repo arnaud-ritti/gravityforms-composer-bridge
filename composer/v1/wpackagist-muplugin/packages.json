@@ -2641,10 +2641,10 @@
                     "composer/installers": "^1.0 || ^2.0"
                 }
             },
-            "5.1": {
+            "5.1.1": {
                 "name": "gravityforms/userregistration",
                 "description": "User Registration Add-On",
-                "version": "5.1",
+                "version": "5.1.1",
                 "type": "wpackagist-muplugin",
                 "license": "GPL-2.0-or-later",
                 "support": {
