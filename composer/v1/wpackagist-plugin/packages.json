@@ -20,10 +20,10 @@
                     "composer/installers": "^1.0 || ^2.0"
                 }
             },
-            "2.7.5": {
+            "2.7.6": {
                 "name": "gravityforms/gravityforms",
                 "description": "Gravity Forms",
-                "version": "2.7.5",
+                "version": "2.7.6",
                 "type": "wpackagist-plugin",
                 "license": "GPL-2.0-or-later",
                 "support": {
@@ -1961,10 +1961,10 @@
                     "composer/installers": "^1.0 || ^2.0"
                 }
             },
-            "4.0.1": {
+            "4.1": {
                 "name": "gravityforms/polls",
                 "description": "Polls Add-On",
-                "version": "4.0.1",
+                "version": "4.1",
                 "type": "wpackagist-plugin",
                 "license": "GPL-2.0-or-later",
                 "support": {
