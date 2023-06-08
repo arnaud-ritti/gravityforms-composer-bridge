@@ -20,10 +20,10 @@
                     "composer/installers": "^1.0 || ^2.0"
                 }
             },
-            "2.7.7.1": {
+            "2.7.8": {
                 "name": "gravityforms/gravityforms",
                 "description": "Gravity Forms",
-                "version": "2.7.7.1",
+                "version": "2.7.8",
                 "type": "wpackagist-plugin",
                 "license": "GPL-2.0-or-later",
                 "support": {
@@ -780,10 +780,10 @@
                     "composer/installers": "^1.0 || ^2.0"
                 }
             },
-            "1.0-beta-5": {
+            "1.0-beta-6": {
                 "name": "gravityforms/conversationalforms",
                 "description": "Conversational Forms Add-On",
-                "version": "1.0-beta-5",
+                "version": "1.0-beta-6",
                 "type": "wpackagist-plugin",
                 "license": "GPL-2.0-or-later",
                 "support": {
