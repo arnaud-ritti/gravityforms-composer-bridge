@@ -1540,10 +1540,10 @@
                     "composer/installers": "^1.0 || ^2.0"
                 }
             },
-            "5.2.0": {
+            "5.2.1": {
                 "name": "gravityforms/mailchimp",
                 "description": "Mailchimp Add-On",
-                "version": "5.2.0",
+                "version": "5.2.1",
                 "type": "library",
                 "license": "GPL-2.0-or-later",
                 "support": {
