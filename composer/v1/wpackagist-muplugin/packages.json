@@ -2860,6 +2860,27 @@
                     "composer/installers": "^1.0 || ^2.0"
                 }
             }
+        },
+        "gravityforms/gravitysmtp": {
+            "dev-master": {
+                "name": "gravityforms/gravitysmtp",
+                "description": "Gravity SMTP",
+                "version": "dev-master",
+                "type": "wpackagist-muplugin",
+                "license": "GPL-2.0-or-later",
+                "support": {
+                    "docs": false
+                },
+                "homepage": false,
+                "dist": {
+                    "type": "zip",
+                    "url": "https://gravityapi.com/wp-content/plugins/gravitymanager/api.php?op=get_plugin&slug=gravitysmtp"
+                },
+                "require": {
+                    "arnaud-ritti/gravityforms-installer": "^1.0",
+                    "composer/installers": "^1.0 || ^2.0"
+                }
+            }
         }
     }
 }
