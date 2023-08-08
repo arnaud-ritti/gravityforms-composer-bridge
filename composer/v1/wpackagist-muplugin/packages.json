@@ -1180,10 +1180,10 @@
                     "composer/installers": "^1.0 || ^2.0"
                 }
             },
-            "2.0.1": {
+            "2.0.2": {
                 "name": "gravityforms/googleanalytics",
                 "description": "Google Analytics Add-On",
-                "version": "2.0.1",
+                "version": "2.0.2",
                 "type": "wpackagist-muplugin",
                 "license": "GPL-2.0-or-later",
                 "support": {
