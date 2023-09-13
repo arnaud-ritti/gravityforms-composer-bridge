@@ -808,9 +808,28 @@
                 "type": "wordpress-plugin",
                 "license": "GPL-2.0-or-later",
                 "support": {
-                    "docs": false
+                    "docs": "https://docs.gravityforms.com/category/add-ons-gravity-forms/convertkit-add-on/"
                 },
-                "homepage": false,
+                "homepage": "",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://gravityapi.com/wp-content/plugins/gravitymanager/api.php?op=get_plugin&slug=gravityformsconvertkit"
+                },
+                "require": {
+                    "arnaud-ritti/gravityforms-installer": "^1.0",
+                    "composer/installers": "^1.0 || ^2.0"
+                }
+            },
+            "1.0-beta-1": {
+                "name": "gravityforms/convertkit",
+                "description": "ConvertKit Add-On (Beta)",
+                "version": "1.0-beta-1",
+                "type": "wordpress-plugin",
+                "license": "GPL-2.0-or-later",
+                "support": {
+                    "docs": "https://docs.gravityforms.com/category/add-ons-gravity-forms/convertkit-add-on/"
+                },
+                "homepage": "",
                 "dist": {
                     "type": "zip",
                     "url": "https://gravityapi.com/wp-content/plugins/gravitymanager/api.php?op=get_plugin&slug=gravityformsconvertkit"
