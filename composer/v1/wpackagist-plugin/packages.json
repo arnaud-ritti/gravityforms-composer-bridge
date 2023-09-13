@@ -800,6 +800,27 @@
                 }
             }
         },
+        "gravityforms/convertkit": {
+            "dev-master": {
+                "name": "gravityforms/convertkit",
+                "description": "ConvertKit Add-On (Beta)",
+                "version": "dev-master",
+                "type": "wpackagist-plugin",
+                "license": "GPL-2.0-or-later",
+                "support": {
+                    "docs": false
+                },
+                "homepage": false,
+                "dist": {
+                    "type": "zip",
+                    "url": "https://gravityapi.com/wp-content/plugins/gravitymanager/api.php?op=get_plugin&slug=gravityformsconvertkit"
+                },
+                "require": {
+                    "arnaud-ritti/gravityforms-installer": "^1.0",
+                    "composer/installers": "^1.0 || ^2.0"
+                }
+            }
+        },
         "gravityforms/coupons": {
             "dev-master": {
                 "name": "gravityforms/coupons",
