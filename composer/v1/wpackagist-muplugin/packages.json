@@ -20,10 +20,10 @@
                     "composer/installers": "^1.0 || ^2.0"
                 }
             },
-            "2.7.15": {
+            "2.7.15.1": {
                 "name": "gravityforms/gravityforms",
                 "description": "Gravity Forms",
-                "version": "2.7.15",
+                "version": "2.7.15.1",
                 "type": "wpackagist-muplugin",
                 "license": "GPL-2.0-or-later",
                 "support": {
