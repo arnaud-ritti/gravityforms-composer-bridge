@@ -2481,10 +2481,10 @@
                     "composer/installers": "^1.0 || ^2.0"
                 }
             },
-            "5.2.2": {
+            "5.2.3": {
                 "name": "gravityforms/stripe",
                 "description": "Stripe Add-On",
-                "version": "5.2.2",
+                "version": "5.2.3",
                 "type": "wordpress-plugin",
                 "license": "GPL-2.0-or-later",
                 "support": {
