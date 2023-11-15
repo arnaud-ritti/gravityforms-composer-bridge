@@ -803,14 +803,14 @@
         "gravityforms/convertkit": {
             "dev-master": {
                 "name": "gravityforms/convertkit",
-                "description": "ConvertKit Add-On (Beta)",
+                "description": "ConvertKit Add-On",
                 "version": "dev-master",
                 "type": "wpackagist-plugin",
                 "license": "GPL-2.0-or-later",
                 "support": {
                     "docs": "https://docs.gravityforms.com/category/add-ons-gravity-forms/convertkit-add-on/"
                 },
-                "homepage": "",
+                "homepage": "https://docs.gravityforms.com/category/add-ons-gravity-forms/convertkit-add-on/",
                 "dist": {
                     "type": "zip",
                     "url": "https://gravityapi.com/wp-content/plugins/gravitymanager/api.php?op=get_plugin&slug=gravityformsconvertkit"
@@ -820,16 +820,16 @@
                     "composer/installers": "^1.0 || ^2.0"
                 }
             },
-            "1.0-beta-1": {
+            "1.0.0": {
                 "name": "gravityforms/convertkit",
-                "description": "ConvertKit Add-On (Beta)",
-                "version": "1.0-beta-1",
+                "description": "ConvertKit Add-On",
+                "version": "1.0.0",
                 "type": "wpackagist-plugin",
                 "license": "GPL-2.0-or-later",
                 "support": {
                     "docs": "https://docs.gravityforms.com/category/add-ons-gravity-forms/convertkit-add-on/"
                 },
-                "homepage": "",
+                "homepage": "https://docs.gravityforms.com/category/add-ons-gravity-forms/convertkit-add-on/",
                 "dist": {
                     "type": "zip",
                     "url": "https://gravityapi.com/wp-content/plugins/gravitymanager/api.php?op=get_plugin&slug=gravityformsconvertkit"
