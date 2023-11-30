@@ -2001,10 +2001,10 @@
                     "composer/installers": "^1.0 || ^2.0"
                 }
             },
-            "4.1": {
+            "4.2.0": {
                 "name": "gravityforms/polls",
                 "description": "Polls Add-On",
-                "version": "4.1",
+                "version": "4.2.0",
                 "type": "wordpress-plugin",
                 "license": "GPL-2.0-or-later",
                 "support": {
@@ -2081,10 +2081,10 @@
                     "composer/installers": "^1.0 || ^2.0"
                 }
             },
-            "2.9.0": {
+            "3.0.0": {
                 "name": "gravityforms/ppcp",
                 "description": "PayPal Checkout Add-On",
-                "version": "2.9.0",
+                "version": "3.0.0",
                 "type": "wordpress-plugin",
                 "license": "GPL-2.0-or-later",
                 "support": {
