@@ -2561,10 +2561,10 @@
                     "composer/installers": "^1.0 || ^2.0"
                 }
             },
-            "3.8": {
+            "3.9": {
                 "name": "gravityforms/survey",
                 "description": "Survey Add-On",
-                "version": "3.8",
+                "version": "3.9",
                 "type": "library",
                 "license": "GPL-2.0-or-later",
                 "support": {
@@ -2909,7 +2909,7 @@
                 "type": "library",
                 "license": "GPL-2.0-or-later",
                 "support": {
-                    "docs": ""
+                    "docs": "http://docs.gravitysmtp.com/"
                 },
                 "homepage": "",
                 "dist": {
@@ -2928,7 +2928,7 @@
                 "type": "library",
                 "license": "GPL-2.0-or-later",
                 "support": {
-                    "docs": ""
+                    "docs": "http://docs.gravitysmtp.com/"
                 },
                 "homepage": "",
                 "dist": {
