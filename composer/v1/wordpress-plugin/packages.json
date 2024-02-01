@@ -20,10 +20,10 @@
                     "composer/installers": "^1.0 || ^2.0"
                 }
             },
-            "2.8.2": {
+            "2.8.3": {
                 "name": "gravityforms/gravityforms",
                 "description": "Gravity Forms",
-                "version": "2.8.2",
+                "version": "2.8.3",
                 "type": "wordpress-plugin",
                 "license": "GPL-2.0-or-later",
                 "support": {
