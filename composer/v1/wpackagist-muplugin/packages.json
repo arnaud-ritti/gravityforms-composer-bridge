@@ -2921,10 +2921,10 @@
                     "composer/installers": "^1.0 || ^2.0"
                 }
             },
-            "1.0-rc3": {
+            "1.0-rc4": {
                 "name": "gravityforms/gravitysmtp",
                 "description": "Gravity SMTP",
-                "version": "1.0-rc3",
+                "version": "1.0-rc4",
                 "type": "wpackagist-muplugin",
                 "license": "GPL-2.0-or-later",
                 "support": {
