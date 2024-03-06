@@ -2801,10 +2801,10 @@
                     "composer/installers": "^1.0 || ^2.0"
                 }
             },
-            "4.2.1": {
+            "4.3.0": {
                 "name": "gravityforms/zapier",
                 "description": "Zapier Add-On",
-                "version": "4.2.1",
+                "version": "4.3.0",
                 "type": "wordpress-muplugin",
                 "license": "GPL-2.0-or-later",
                 "support": {
