@@ -700,10 +700,10 @@
                     "composer/installers": "^1.0 || ^2.0"
                 }
             },
-            "1.4": {
+            "1.5": {
                 "name": "gravityforms/cli",
                 "description": "Gravity Forms CLI",
-                "version": "1.4",
+                "version": "1.5",
                 "type": "wordpress-plugin",
                 "license": "GPL-2.0-or-later",
                 "support": {
@@ -2881,10 +2881,10 @@
                     "composer/installers": "^1.0 || ^2.0"
                 }
             },
-            "2.1.0": {
+            "2.2.0": {
                 "name": "gravityforms/zohocrm",
                 "description": "Zoho CRM Add-On",
-                "version": "2.1.0",
+                "version": "2.2.0",
                 "type": "wordpress-plugin",
                 "license": "GPL-2.0-or-later",
                 "support": {
