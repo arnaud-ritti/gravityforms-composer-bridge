@@ -1460,10 +1460,10 @@
                     "composer/installers": "^1.0 || ^2.0"
                 }
             },
-            "1.5.1": {
+            "1.6.0": {
                 "name": "gravityforms/icontact",
                 "description": "iContact Add-On",
-                "version": "1.5.1",
+                "version": "1.6.0",
                 "type": "library",
                 "license": "GPL-2.0-or-later",
                 "support": {
