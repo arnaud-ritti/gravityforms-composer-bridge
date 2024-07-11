@@ -2709,7 +2709,7 @@
                 "type": "wpackagist-plugin",
                 "license": "GPL-2.0-or-later",
                 "support": {
-                    "docs": "https://docs.gravityforms.com/category/cloudflare-turnstile-add-on"
+                    "docs": "https://docs.gravityforms.com/category/add-ons-gravity-forms/cloudflare-turnstile/"
                 },
                 "homepage": "http://www.gravityforms.com/add-ons/cloudflare-turnstile",
                 "dist": {
@@ -2728,7 +2728,7 @@
                 "type": "wpackagist-plugin",
                 "license": "GPL-2.0-or-later",
                 "support": {
-                    "docs": "https://docs.gravityforms.com/category/cloudflare-turnstile-add-on"
+                    "docs": "https://docs.gravityforms.com/category/add-ons-gravity-forms/cloudflare-turnstile/"
                 },
                 "homepage": "http://www.gravityforms.com/add-ons/cloudflare-turnstile",
                 "dist": {
