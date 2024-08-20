@@ -48,7 +48,7 @@
                 "type": "wordpress-muplugin",
                 "license": "GPL-2.0-or-later",
                 "support": {
-                    "docs": "https://docs.gravityforms.com/?s=Gravity+Forms+2.9"
+                    "docs": "https://docs.gravityforms.com/category/gravity-forms-2-9/"
                 },
                 "homepage": "https://gravityforms.com",
                 "dist": {
@@ -67,7 +67,7 @@
                 "type": "wordpress-muplugin",
                 "license": "GPL-2.0-or-later",
                 "support": {
-                    "docs": "https://docs.gravityforms.com/?s=Gravity+Forms+2.9"
+                    "docs": "https://docs.gravityforms.com/category/gravity-forms-2-9/"
                 },
                 "homepage": "https://gravityforms.com",
                 "dist": {
