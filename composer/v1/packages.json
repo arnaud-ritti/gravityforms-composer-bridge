@@ -1580,10 +1580,10 @@
                     "composer/installers": "^1.0 || ^2.0"
                 }
             },
-            "5.4.0": {
+            "5.4.1": {
                 "name": "gravityforms/mailchimp",
                 "description": "Mailchimp Add-On",
-                "version": "5.4.0",
+                "version": "5.4.1",
                 "type": "wpackagist-plugin",
                 "license": "GPL-2.0-or-later",
                 "support": {
