@@ -2081,10 +2081,10 @@
                     "composer/installers": "^1.0 || ^2.0"
                 }
             },
-            "4.2.0": {
+            "4.3.0": {
                 "name": "gravityforms/polls",
                 "description": "Polls Add-On",
-                "version": "4.2.0",
+                "version": "4.3.0",
                 "type": "wordpress-plugin",
                 "license": "GPL-2.0-or-later",
                 "support": {
@@ -2681,10 +2681,10 @@
                     "composer/installers": "^1.0 || ^2.0"
                 }
             },
-            "4.0.0": {
+            "4.1.0": {
                 "name": "gravityforms/survey",
                 "description": "Survey Add-On",
-                "version": "4.0.0",
+                "version": "4.1.0",
                 "type": "wordpress-plugin",
                 "license": "GPL-2.0-or-later",
                 "support": {
