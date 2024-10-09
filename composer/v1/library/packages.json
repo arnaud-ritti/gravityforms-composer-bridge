@@ -860,10 +860,10 @@
                     "composer/installers": "^1.0 || ^2.0"
                 }
             },
-            "3.3.0": {
+            "3.4.0": {
                 "name": "gravityforms/coupons",
                 "description": "Coupons Add-On",
-                "version": "3.3.0",
+                "version": "3.4.0",
                 "type": "library",
                 "license": "GPL-2.0-or-later",
                 "support": {
