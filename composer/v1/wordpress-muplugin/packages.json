@@ -2161,10 +2161,10 @@
                     "composer/installers": "^1.0 || ^2.0"
                 }
             },
-            "3.6.0": {
+            "3.6.1": {
                 "name": "gravityforms/ppcp",
                 "description": "PayPal Checkout Add-On",
-                "version": "3.6.0",
+                "version": "3.6.1",
                 "type": "wordpress-muplugin",
                 "license": "GPL-2.0-or-later",
                 "support": {
