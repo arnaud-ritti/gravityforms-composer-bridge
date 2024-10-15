@@ -3041,10 +3041,10 @@
                     "composer/installers": "^1.0 || ^2.0"
                 }
             },
-            "1.4.0": {
+            "1.4.2": {
                 "name": "gravityforms/gravitysmtp",
                 "description": "Gravity SMTP",
-                "version": "1.4.0",
+                "version": "1.4.2",
                 "type": "wordpress-plugin",
                 "license": "GPL-2.0-or-later",
                 "support": {
