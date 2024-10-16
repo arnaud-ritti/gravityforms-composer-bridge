@@ -803,7 +803,7 @@
         "gravityforms/convertkit": {
             "dev-master": {
                 "name": "gravityforms/convertkit",
-                "description": "ConvertKit Add-On",
+                "description": "Kit Add-On",
                 "version": "dev-master",
                 "type": "wordpress-plugin",
                 "license": "GPL-2.0-or-later",
@@ -822,7 +822,7 @@
             },
             "1.1.0": {
                 "name": "gravityforms/convertkit",
-                "description": "ConvertKit Add-On",
+                "description": "Kit Add-On",
                 "version": "1.1.0",
                 "type": "wordpress-plugin",
                 "license": "GPL-2.0-or-later",
