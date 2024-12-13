@@ -2281,10 +2281,10 @@
                     "composer/installers": "^1.0 || ^2.0"
                 }
             },
-            "4.2.0": {
+            "4.2.1": {
                 "name": "gravityforms/quiz",
                 "description": "Quiz Add-On",
-                "version": "4.2.0",
+                "version": "4.2.1",
                 "type": "wordpress-plugin",
                 "license": "GPL-2.0-or-later",
                 "support": {
