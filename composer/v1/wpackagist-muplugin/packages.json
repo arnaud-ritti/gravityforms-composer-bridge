@@ -580,10 +580,10 @@
                     "composer/installers": "^1.0 || ^2.0"
                 }
             },
-            "1.7": {
+            "1.8.0": {
                 "name": "gravityforms/chainedselects",
                 "description": "Chained Selects Add-On",
-                "version": "1.7",
+                "version": "1.8.0",
                 "type": "wpackagist-muplugin",
                 "license": "GPL-2.0-or-later",
                 "support": {
@@ -2521,10 +2521,10 @@
                     "composer/installers": "^1.0 || ^2.0"
                 }
             },
-            "4.6.2": {
+            "4.7.0": {
                 "name": "gravityforms/signature",
                 "description": "Signature Add-On",
-                "version": "4.6.2",
+                "version": "4.7.0",
                 "type": "wpackagist-muplugin",
                 "license": "GPL-2.0-or-later",
                 "support": {
