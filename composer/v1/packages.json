@@ -780,10 +780,10 @@
                     "composer/installers": "^1.0 || ^2.0"
                 }
             },
-            "1.5": {
+            "1.7": {
                 "name": "gravityforms/cli",
                 "description": "Gravity Forms CLI",
-                "version": "1.5",
+                "version": "1.7",
                 "type": "wpackagist-plugin",
                 "license": "GPL-2.0-or-later",
                 "support": {
