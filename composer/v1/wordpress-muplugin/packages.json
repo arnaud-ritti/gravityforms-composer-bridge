@@ -20,10 +20,10 @@
                     "composer/installers": "^1.0 || ^2.0"
                 }
             },
-            "2.9.13.1": {
+            "2.9.14": {
                 "name": "gravityforms/gravityforms",
                 "description": "Gravity Forms",
-                "version": "2.9.13.1",
+                "version": "2.9.14",
                 "type": "wordpress-muplugin",
                 "license": "GPL-2.0-or-later",
                 "support": {
@@ -1500,10 +1500,10 @@
                     "composer/installers": "^1.0 || ^2.0"
                 }
             },
-            "2.3.0": {
+            "2.3.1": {
                 "name": "gravityforms/hubspot",
                 "description": "HubSpot Add-On",
-                "version": "2.3.0",
+                "version": "2.3.1",
                 "type": "wordpress-muplugin",
                 "license": "GPL-2.0-or-later",
                 "support": {
