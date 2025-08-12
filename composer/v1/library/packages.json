@@ -2744,7 +2744,7 @@
         "gravityforms/stripe-beta": {
             "dev-master": {
                 "name": "gravityforms/stripe-beta",
-                "description": "Stripe 5.0 (Beta)",
+                "description": "Stripe 6.0 (Beta)",
                 "version": "dev-master",
                 "type": "library",
                 "license": "GPL-2.0-or-later",
@@ -2761,10 +2761,10 @@
                     "composer/installers": "^1.0 || ^2.0"
                 }
             },
-            "5.0-beta-1": {
+            "6.0-beta-1": {
                 "name": "gravityforms/stripe-beta",
-                "description": "Stripe 5.0 (Beta)",
-                "version": "5.0-beta-1",
+                "description": "Stripe 6.0 (Beta)",
+                "version": "6.0-beta-1",
                 "type": "library",
                 "license": "GPL-2.0-or-later",
                 "support": {
