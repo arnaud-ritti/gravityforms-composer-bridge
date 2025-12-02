@@ -2742,10 +2742,10 @@
                     "composer/installers": "^1.0 || ^2.0"
                 }
             },
-            "6.0.1.0": {
+            "6.0.1.1": {
                 "name": "gravityforms/stripe",
                 "description": "Stripe Add-On",
-                "version": "6.0.1.0",
+                "version": "6.0.1.1",
                 "type": "wpackagist-plugin",
                 "license": "GPL-2.0-or-later",
                 "support": {
