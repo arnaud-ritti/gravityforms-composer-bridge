@@ -2742,10 +2742,10 @@
                     "composer/installers": "^1.0 || ^2.0"
                 }
             },
-            "6.0.1.0": {
+            "6.0.1.1": {
                 "name": "gravityforms/stripe",
                 "description": "Stripe Add-On",
-                "version": "6.0.1.0",
+                "version": "6.0.1.1",
                 "type": "wordpress-plugin",
                 "license": "GPL-2.0-or-later",
                 "support": {
@@ -3205,7 +3205,7 @@
         "gravityforms/testing": {
             "dev-master": {
                 "name": "gravityforms/testing",
-                "description": "Testing",
+                "description": null,
                 "version": "dev-master",
                 "type": "wordpress-plugin",
                 "license": "GPL-2.0-or-later",
@@ -3224,7 +3224,7 @@
             },
             "1.www": {
                 "name": "gravityforms/testing",
-                "description": "Testing",
+                "description": null,
                 "version": "1.www",
                 "type": "wordpress-plugin",
                 "license": "GPL-2.0-or-later",
