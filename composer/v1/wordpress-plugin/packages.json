@@ -1241,10 +1241,10 @@
                     "composer/installers": "^1.0 || ^2.0"
                 }
             },
-            "1.5.1": {
+            "1.5.0": {
                 "name": "gravityforms/geolocation",
                 "description": "Geolocation Add-On",
-                "version": "1.5.1",
+                "version": "1.5.0",
                 "type": "wordpress-plugin",
                 "license": "GPL-2.0-or-later",
                 "support": {
@@ -2502,10 +2502,10 @@
                     "composer/installers": "^1.0 || ^2.0"
                 }
             },
-            "1.1.1": {
+            "1.1.0": {
                 "name": "gravityforms/salesforce",
                 "description": "Salesforce Add-On",
-                "version": "1.1.1",
+                "version": "1.1.0",
                 "type": "wordpress-plugin",
                 "license": "GPL-2.0-or-later",
                 "support": {
@@ -2742,10 +2742,10 @@
                     "composer/installers": "^1.0 || ^2.0"
                 }
             },
-            "6.0.1.1": {
+            "6.0.1.0": {
                 "name": "gravityforms/stripe",
                 "description": "Stripe Add-On",
-                "version": "6.0.1.1",
+                "version": "6.0.1.0",
                 "type": "wordpress-plugin",
                 "license": "GPL-2.0-or-later",
                 "support": {
@@ -2822,10 +2822,10 @@
                     "composer/installers": "^1.0 || ^2.0"
                 }
             },
-            "4.2.2": {
+            "4.2.1": {
                 "name": "gravityforms/survey",
                 "description": "Survey Add-On",
-                "version": "4.2.2",
+                "version": "4.2.1",
                 "type": "wordpress-plugin",
                 "license": "GPL-2.0-or-later",
                 "support": {
@@ -3195,6 +3195,46 @@
                 "dist": {
                     "type": "zip",
                     "url": "https://gravityapi.com/wp-content/plugins/gravitymanager/api.php?op=get_plugin&slug=gravitysmtp"
+                },
+                "require": {
+                    "arnaud-ritti/gravityforms-installer": "^1.0",
+                    "composer/installers": "^1.0 || ^2.0"
+                }
+            }
+        },
+        "gravityforms/testing": {
+            "dev-master": {
+                "name": "gravityforms/testing",
+                "description": "Testing",
+                "version": "dev-master",
+                "type": "wordpress-plugin",
+                "license": "GPL-2.0-or-later",
+                "support": {
+                    "docs": ""
+                },
+                "homepage": "",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://gravityapi.com/wp-content/plugins/gravitymanager/api.php?op=get_plugin&slug=testing"
+                },
+                "require": {
+                    "arnaud-ritti/gravityforms-installer": "^1.0",
+                    "composer/installers": "^1.0 || ^2.0"
+                }
+            },
+            "1.www": {
+                "name": "gravityforms/testing",
+                "description": "Testing",
+                "version": "1.www",
+                "type": "wordpress-plugin",
+                "license": "GPL-2.0-or-later",
+                "support": {
+                    "docs": ""
+                },
+                "homepage": "",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://gravityapi.com/wp-content/plugins/gravitymanager/api.php?op=get_plugin&slug=testing"
                 },
                 "require": {
                     "arnaud-ritti/gravityforms-installer": "^1.0",
