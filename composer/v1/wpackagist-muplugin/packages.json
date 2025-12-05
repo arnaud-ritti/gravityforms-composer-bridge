@@ -3205,7 +3205,7 @@
         "gravityforms/testing": {
             "dev-master": {
                 "name": "gravityforms/testing",
-                "description": null,
+                "description": "Testing",
                 "version": "dev-master",
                 "type": "wpackagist-muplugin",
                 "license": "GPL-2.0-or-later",
@@ -3224,7 +3224,7 @@
             },
             "1.www": {
                 "name": "gravityforms/testing",
-                "description": null,
+                "description": "Testing",
                 "version": "1.www",
                 "type": "wpackagist-muplugin",
                 "license": "GPL-2.0-or-later",
