@@ -469,7 +469,7 @@
                 "type": "wpackagist-plugin",
                 "license": "GPL-2.0-or-later",
                 "support": {
-                    "docs": "https://docs.gravityforms.com/category/add-ons-gravity-forms/brevo/"
+                    "docs": "https://docs.gravityforms.com/category/add-ons-gravity-forms/brevo-add-on/"
                 },
                 "homepage": "https://www.gravityforms.com/add-ons/brevo",
                 "dist": {
@@ -488,7 +488,7 @@
                 "type": "wpackagist-plugin",
                 "license": "GPL-2.0-or-later",
                 "support": {
-                    "docs": "https://docs.gravityforms.com/category/add-ons-gravity-forms/brevo/"
+                    "docs": "https://docs.gravityforms.com/category/add-ons-gravity-forms/brevo-add-on/"
                 },
                 "homepage": "https://www.gravityforms.com/add-ons/brevo",
                 "dist": {
@@ -829,7 +829,7 @@
                 "type": "wpackagist-plugin",
                 "license": "GPL-2.0-or-later",
                 "support": {
-                    "docs": "https://docs.gravityforms.com/constant-contact-add-on/"
+                    "docs": "https://docs.gravityforms.com/category/add-ons-gravity-forms/constant-contact-add-on/"
                 },
                 "homepage": "https://www.gravityforms.com/add-ons/constant-contact",
                 "dist": {
@@ -848,7 +848,7 @@
                 "type": "wpackagist-plugin",
                 "license": "GPL-2.0-or-later",
                 "support": {
-                    "docs": "https://docs.gravityforms.com/constant-contact-add-on/"
+                    "docs": "https://docs.gravityforms.com/category/add-ons-gravity-forms/constant-contact-add-on/"
                 },
                 "homepage": "https://www.gravityforms.com/add-ons/constant-contact",
                 "dist": {
@@ -1521,10 +1521,10 @@
                     "composer/installers": "^1.0 || ^2.0"
                 }
             },
-            "2.3.3": {
+            "3.0.0": {
                 "name": "gravityforms/hubspot",
                 "description": "HubSpot Add-On",
-                "version": "2.3.3",
+                "version": "3.0.0",
                 "type": "wpackagist-plugin",
                 "license": "GPL-2.0-or-later",
                 "support": {
@@ -1681,10 +1681,10 @@
                     "composer/installers": "^1.0 || ^2.0"
                 }
             },
-            "5.7.1": {
+            "5.7.2": {
                 "name": "gravityforms/mailchimp",
                 "description": "Mailchimp Add-On",
-                "version": "5.7.1",
+                "version": "5.7.2",
                 "type": "wpackagist-plugin",
                 "license": "GPL-2.0-or-later",
                 "support": {
@@ -2170,7 +2170,7 @@
                 "type": "wpackagist-plugin",
                 "license": "GPL-2.0-or-later",
                 "support": {
-                    "docs": "https://docs.gravityforms.com/category/polls-add-on/"
+                    "docs": "https://docs.gravityforms.com/category/add-ons-gravity-forms/polls-add-on/"
                 },
                 "homepage": "http://www.gravityforms.com/add-ons/polls",
                 "dist": {
@@ -2189,7 +2189,7 @@
                 "type": "wpackagist-plugin",
                 "license": "GPL-2.0-or-later",
                 "support": {
-                    "docs": "https://docs.gravityforms.com/category/polls-add-on/"
+                    "docs": "https://docs.gravityforms.com/category/add-ons-gravity-forms/polls-add-on/"
                 },
                 "homepage": "http://www.gravityforms.com/add-ons/polls",
                 "dist": {
