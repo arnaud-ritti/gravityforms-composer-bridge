@@ -1521,10 +1521,10 @@
                     "composer/installers": "^1.0 || ^2.0"
                 }
             },
-            "3.0.0": {
+            "3.0.0.1": {
                 "name": "gravityforms/hubspot",
                 "description": "HubSpot Add-On",
-                "version": "3.0.0",
+                "version": "3.0.0.1",
                 "type": "wpackagist-plugin",
                 "license": "GPL-2.0-or-later",
                 "support": {
