@@ -41,10 +41,10 @@
                     "composer/installers": "^1.0 || ^2.0"
                 }
             },
-            "2.9.24.2": {
+            "2.9.25": {
                 "name": "gravityforms/gravityforms",
                 "description": "Gravity Forms",
-                "version": "2.9.24.2",
+                "version": "2.9.25",
                 "type": "wordpress-muplugin",
                 "license": "GPL-2.0-or-later",
                 "support": {
@@ -662,10 +662,10 @@
                     "composer/installers": "^1.0 || ^2.0"
                 }
             },
-            "1.8.0": {
+            "1.8.1": {
                 "name": "gravityforms/chainedselects",
                 "description": "Chained Selects Add-On",
-                "version": "1.8.0",
+                "version": "1.8.1",
                 "type": "wordpress-muplugin",
                 "license": "GPL-2.0-or-later",
                 "support": {
@@ -3163,10 +3163,10 @@
                     "composer/installers": "^1.0 || ^2.0"
                 }
             },
-            "2.1.2": {
+            "2.1.3": {
                 "name": "gravityforms/gravitysmtp",
                 "description": "Gravity SMTP",
-                "version": "2.1.2",
+                "version": "2.1.3",
                 "type": "wordpress-muplugin",
                 "license": "GPL-2.0-or-later",
                 "support": {
