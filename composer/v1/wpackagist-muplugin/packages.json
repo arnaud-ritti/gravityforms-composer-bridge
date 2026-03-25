@@ -3182,10 +3182,10 @@
                     "composer/installers": "^1.0 || ^2.0"
                 }
             },
-            "2.1.4": {
+            "2.1.5": {
                 "name": "gravityforms/gravitysmtp",
                 "description": "Gravity SMTP",
-                "version": "2.1.4",
+                "version": "2.1.5",
                 "type": "wpackagist-muplugin",
                 "license": "GPL-2.0-or-later",
                 "support": {
