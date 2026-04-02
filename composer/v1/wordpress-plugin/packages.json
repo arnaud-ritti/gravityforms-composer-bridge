@@ -41,10 +41,10 @@
                     "composer/installers": "^1.0 || ^2.0"
                 }
             },
-            "2.9.30": {
+            "2.9.31": {
                 "name": "gravityforms/gravityforms",
                 "description": "Gravity Forms",
-                "version": "2.9.30",
+                "version": "2.9.31",
                 "type": "wordpress-plugin",
                 "license": "GPL-2.0-or-later",
                 "support": {
