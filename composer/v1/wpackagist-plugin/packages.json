@@ -2422,10 +2422,10 @@
                     "composer/installers": "^1.0 || ^2.0"
                 }
             },
-            "2.2.0.1": {
+            "2.2.1": {
                 "name": "gravityforms/recaptcha",
                 "description": "reCAPTCHA Add-On",
-                "version": "2.2.0.1",
+                "version": "2.2.1",
                 "type": "wpackagist-plugin",
                 "license": "GPL-2.0-or-later",
                 "support": {
