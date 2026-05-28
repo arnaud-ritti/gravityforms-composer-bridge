@@ -1024,7 +1024,7 @@
         "gravityforms/drip": {
             "dev-master": {
                 "name": "gravityforms/drip",
-                "description": "Drip",
+                "description": "Drip Add-On",
                 "version": "dev-master",
                 "type": "wpackagist-muplugin",
                 "license": "GPL-2.0-or-later",
@@ -1043,7 +1043,7 @@
             },
             "0.1.0-beta.1": {
                 "name": "gravityforms/drip",
-                "description": "Drip",
+                "description": "Drip Add-On",
                 "version": "0.1.0-beta.1",
                 "type": "wpackagist-muplugin",
                 "license": "GPL-2.0-or-later",
@@ -1214,6 +1214,27 @@
                 "dist": {
                     "type": "zip",
                     "url": "https://gravityapi.com/wp-content/plugins/gravitymanager/api.php?op=get_plugin&slug=gravityformsemma"
+                },
+                "require": {
+                    "arnaud-ritti/gravityforms-installer": "^1.0",
+                    "composer/installers": "^1.0 || ^2.0"
+                }
+            }
+        },
+        "gravityforms/feedback": {
+            "dev-master": {
+                "name": "gravityforms/feedback",
+                "description": "Feedback Add-On",
+                "version": "dev-master",
+                "type": "wpackagist-muplugin",
+                "license": "GPL-2.0-or-later",
+                "support": {
+                    "docs": ""
+                },
+                "homepage": "",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://gravityapi.com/wp-content/plugins/gravitymanager/api.php?op=get_plugin&slug=gravityformsfeedback"
                 },
                 "require": {
                     "arnaud-ritti/gravityforms-installer": "^1.0",
@@ -2235,6 +2256,46 @@
                 "dist": {
                     "type": "zip",
                     "url": "https://gravityapi.com/wp-content/plugins/gravitymanager/api.php?op=get_plugin&slug=gravityformspolls"
+                },
+                "require": {
+                    "arnaud-ritti/gravityforms-installer": "^1.0",
+                    "composer/installers": "^1.0 || ^2.0"
+                }
+            }
+        },
+        "gravityforms/popups": {
+            "dev-master": {
+                "name": "gravityforms/popups",
+                "description": "Popups Add-On",
+                "version": "dev-master",
+                "type": "wpackagist-muplugin",
+                "license": "GPL-2.0-or-later",
+                "support": {
+                    "docs": ""
+                },
+                "homepage": "",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://gravityapi.com/wp-content/plugins/gravitymanager/api.php?op=get_plugin&slug=gravityformspopups"
+                },
+                "require": {
+                    "arnaud-ritti/gravityforms-installer": "^1.0",
+                    "composer/installers": "^1.0 || ^2.0"
+                }
+            },
+            "0.1.0-beta.1": {
+                "name": "gravityforms/popups",
+                "description": "Popups Add-On",
+                "version": "0.1.0-beta.1",
+                "type": "wpackagist-muplugin",
+                "license": "GPL-2.0-or-later",
+                "support": {
+                    "docs": ""
+                },
+                "homepage": "",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://gravityapi.com/wp-content/plugins/gravitymanager/api.php?op=get_plugin&slug=gravityformspopups"
                 },
                 "require": {
                     "arnaud-ritti/gravityforms-installer": "^1.0",
