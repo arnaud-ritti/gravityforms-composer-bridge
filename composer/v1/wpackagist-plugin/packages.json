@@ -41,10 +41,10 @@
                     "composer/installers": "^1.0 || ^2.0"
                 }
             },
-            "2.10.2": {
+            "2.10.3": {
                 "name": "gravityforms/gravityforms",
                 "description": "Gravity Forms",
-                "version": "2.10.2",
+                "version": "2.10.3",
                 "type": "wpackagist-plugin",
                 "license": "GPL-2.0-or-later",
                 "support": {
@@ -1240,6 +1240,25 @@
                     "arnaud-ritti/gravityforms-installer": "^1.0",
                     "composer/installers": "^1.0 || ^2.0"
                 }
+            },
+            "0.1.0-beta.1": {
+                "name": "gravityforms/feedback",
+                "description": "Feedback Add-On",
+                "version": "0.1.0-beta.1",
+                "type": "wpackagist-plugin",
+                "license": "GPL-2.0-or-later",
+                "support": {
+                    "docs": ""
+                },
+                "homepage": "",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://gravityapi.com/wp-content/plugins/gravitymanager/api.php?op=get_plugin&slug=gravityformsfeedback"
+                },
+                "require": {
+                    "arnaud-ritti/gravityforms-installer": "^1.0",
+                    "composer/installers": "^1.0 || ^2.0"
+                }
             }
         },
         "gravityforms/freshbooks": {
@@ -1395,6 +1414,86 @@
                 "dist": {
                     "type": "zip",
                     "url": "https://gravityapi.com/wp-content/plugins/gravitymanager/api.php?op=get_plugin&slug=gravityformsgoogleanalytics"
+                },
+                "require": {
+                    "arnaud-ritti/gravityforms-installer": "^1.0",
+                    "composer/installers": "^1.0 || ^2.0"
+                }
+            }
+        },
+        "gravityforms/googledocs": {
+            "dev-master": {
+                "name": "gravityforms/googledocs",
+                "description": "Google Docs",
+                "version": "dev-master",
+                "type": "wpackagist-plugin",
+                "license": "GPL-2.0-or-later",
+                "support": {
+                    "docs": ""
+                },
+                "homepage": "",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://gravityapi.com/wp-content/plugins/gravitymanager/api.php?op=get_plugin&slug=gravityformsgoogledocs"
+                },
+                "require": {
+                    "arnaud-ritti/gravityforms-installer": "^1.0",
+                    "composer/installers": "^1.0 || ^2.0"
+                }
+            },
+            "0.1.0-beta.1": {
+                "name": "gravityforms/googledocs",
+                "description": "Google Docs",
+                "version": "0.1.0-beta.1",
+                "type": "wpackagist-plugin",
+                "license": "GPL-2.0-or-later",
+                "support": {
+                    "docs": ""
+                },
+                "homepage": "",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://gravityapi.com/wp-content/plugins/gravitymanager/api.php?op=get_plugin&slug=gravityformsgoogledocs"
+                },
+                "require": {
+                    "arnaud-ritti/gravityforms-installer": "^1.0",
+                    "composer/installers": "^1.0 || ^2.0"
+                }
+            }
+        },
+        "gravityforms/googlesheets": {
+            "dev-master": {
+                "name": "gravityforms/googlesheets",
+                "description": "Google Sheets Add-On",
+                "version": "dev-master",
+                "type": "wpackagist-plugin",
+                "license": "GPL-2.0-or-later",
+                "support": {
+                    "docs": ""
+                },
+                "homepage": "",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://gravityapi.com/wp-content/plugins/gravitymanager/api.php?op=get_plugin&slug=gravityformsgooglesheets"
+                },
+                "require": {
+                    "arnaud-ritti/gravityforms-installer": "^1.0",
+                    "composer/installers": "^1.0 || ^2.0"
+                }
+            },
+            "0.1.0-beta.1": {
+                "name": "gravityforms/googlesheets",
+                "description": "Google Sheets Add-On",
+                "version": "0.1.0-beta.1",
+                "type": "wpackagist-plugin",
+                "license": "GPL-2.0-or-later",
+                "support": {
+                    "docs": ""
+                },
+                "homepage": "",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://gravityapi.com/wp-content/plugins/gravitymanager/api.php?op=get_plugin&slug=gravityformsgooglesheets"
                 },
                 "require": {
                     "arnaud-ritti/gravityforms-installer": "^1.0",
@@ -1875,6 +1974,46 @@
                 "dist": {
                     "type": "zip",
                     "url": "https://gravityapi.com/wp-content/plugins/gravitymanager/api.php?op=get_plugin&slug=gravityformsmailgun"
+                },
+                "require": {
+                    "arnaud-ritti/gravityforms-installer": "^1.0",
+                    "composer/installers": "^1.0 || ^2.0"
+                }
+            }
+        },
+        "gravityforms/mailjet": {
+            "dev-master": {
+                "name": "gravityforms/mailjet",
+                "description": "Mailjet Add-On",
+                "version": "dev-master",
+                "type": "wpackagist-plugin",
+                "license": "GPL-2.0-or-later",
+                "support": {
+                    "docs": ""
+                },
+                "homepage": "",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://gravityapi.com/wp-content/plugins/gravitymanager/api.php?op=get_plugin&slug=gravityformsmailjet"
+                },
+                "require": {
+                    "arnaud-ritti/gravityforms-installer": "^1.0",
+                    "composer/installers": "^1.0 || ^2.0"
+                }
+            },
+            "0.1.0-beta.1": {
+                "name": "gravityforms/mailjet",
+                "description": "Mailjet Add-On",
+                "version": "0.1.0-beta.1",
+                "type": "wpackagist-plugin",
+                "license": "GPL-2.0-or-later",
+                "support": {
+                    "docs": ""
+                },
+                "homepage": "",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://gravityapi.com/wp-content/plugins/gravitymanager/api.php?op=get_plugin&slug=gravityformsmailjet"
                 },
                 "require": {
                     "arnaud-ritti/gravityforms-installer": "^1.0",
@@ -3083,10 +3222,10 @@
                     "composer/installers": "^1.0 || ^2.0"
                 }
             },
-            "5.4.1": {
+            "5.5.0": {
                 "name": "gravityforms/userregistration",
                 "description": "User Registration Add-On",
-                "version": "5.4.1",
+                "version": "5.5.0",
                 "type": "wpackagist-plugin",
                 "license": "GPL-2.0-or-later",
                 "support": {
@@ -3096,6 +3235,46 @@
                 "dist": {
                     "type": "zip",
                     "url": "https://gravityapi.com/wp-content/plugins/gravitymanager/api.php?op=get_plugin&slug=gravityformsuserregistration"
+                },
+                "require": {
+                    "arnaud-ritti/gravityforms-installer": "^1.0",
+                    "composer/installers": "^1.0 || ^2.0"
+                }
+            }
+        },
+        "gravityforms/versioning": {
+            "dev-master": {
+                "name": "gravityforms/versioning",
+                "description": "Versioning Add-On",
+                "version": "dev-master",
+                "type": "wpackagist-plugin",
+                "license": "GPL-2.0-or-later",
+                "support": {
+                    "docs": ""
+                },
+                "homepage": "",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://gravityapi.com/wp-content/plugins/gravitymanager/api.php?op=get_plugin&slug=gravityformsversioning"
+                },
+                "require": {
+                    "arnaud-ritti/gravityforms-installer": "^1.0",
+                    "composer/installers": "^1.0 || ^2.0"
+                }
+            },
+            "0.1.0-beta.1": {
+                "name": "gravityforms/versioning",
+                "description": "Versioning Add-On",
+                "version": "0.1.0-beta.1",
+                "type": "wpackagist-plugin",
+                "license": "GPL-2.0-or-later",
+                "support": {
+                    "docs": ""
+                },
+                "homepage": "",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://gravityapi.com/wp-content/plugins/gravitymanager/api.php?op=get_plugin&slug=gravityformsversioning"
                 },
                 "require": {
                     "arnaud-ritti/gravityforms-installer": "^1.0",
