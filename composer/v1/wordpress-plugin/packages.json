@@ -1760,6 +1760,25 @@
                     "arnaud-ritti/gravityforms-installer": "^1.0",
                     "composer/installers": "^1.0 || ^2.0"
                 }
+            },
+            "0.1.0-beta.1": {
+                "name": "gravityforms/klaviyo",
+                "description": "Klaviyo Add-On",
+                "version": "0.1.0-beta.1",
+                "type": "wordpress-plugin",
+                "license": "GPL-2.0-or-later",
+                "support": {
+                    "docs": ""
+                },
+                "homepage": "",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://gravityapi.com/wp-content/plugins/gravitymanager/api.php?op=get_plugin&slug=gravityformsklaviyo"
+                },
+                "require": {
+                    "arnaud-ritti/gravityforms-installer": "^1.0",
+                    "composer/installers": "^1.0 || ^2.0"
+                }
             }
         },
         "gravityforms/logging": {
