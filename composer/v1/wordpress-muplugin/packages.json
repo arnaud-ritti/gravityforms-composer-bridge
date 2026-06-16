@@ -1681,10 +1681,10 @@
                     "composer/installers": "^1.0 || ^2.0"
                 }
             },
-            "3.0.2.1": {
+            "3.0.3": {
                 "name": "gravityforms/hubspot",
                 "description": "HubSpot Add-On",
-                "version": "3.0.2.1",
+                "version": "3.0.3",
                 "type": "wordpress-muplugin",
                 "license": "GPL-2.0-or-later",
                 "support": {
