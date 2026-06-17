@@ -2141,6 +2141,46 @@
                 }
             }
         },
+        "gravityforms/notion": {
+            "dev-master": {
+                "name": "gravityforms/notion",
+                "description": "Notion Add-On",
+                "version": "dev-master",
+                "type": "wordpress-muplugin",
+                "license": "GPL-2.0-or-later",
+                "support": {
+                    "docs": ""
+                },
+                "homepage": "",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://gravityapi.com/wp-content/plugins/gravitymanager/api.php?op=get_plugin&slug=gravityformsnotion"
+                },
+                "require": {
+                    "arnaud-ritti/gravityforms-installer": "^1.0",
+                    "composer/installers": "^1.0 || ^2.0"
+                }
+            },
+            "0.1.0-alpha.1": {
+                "name": "gravityforms/notion",
+                "description": "Notion Add-On",
+                "version": "0.1.0-alpha.1",
+                "type": "wordpress-muplugin",
+                "license": "GPL-2.0-or-later",
+                "support": {
+                    "docs": ""
+                },
+                "homepage": "",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://gravityapi.com/wp-content/plugins/gravitymanager/api.php?op=get_plugin&slug=gravityformsnotion"
+                },
+                "require": {
+                    "arnaud-ritti/gravityforms-installer": "^1.0",
+                    "composer/installers": "^1.0 || ^2.0"
+                }
+            }
+        },
         "gravityforms/partialentries": {
             "dev-master": {
                 "name": "gravityforms/partialentries",
@@ -3355,6 +3395,46 @@
                 "dist": {
                     "type": "zip",
                     "url": "https://gravityapi.com/wp-content/plugins/gravitymanager/api.php?op=get_plugin&slug=gravityformswebhooks"
+                },
+                "require": {
+                    "arnaud-ritti/gravityforms-installer": "^1.0",
+                    "composer/installers": "^1.0 || ^2.0"
+                }
+            }
+        },
+        "gravityforms/wpforms": {
+            "dev-master": {
+                "name": "gravityforms/wpforms",
+                "description": "WPForms Migration Add-On",
+                "version": "dev-master",
+                "type": "wordpress-muplugin",
+                "license": "GPL-2.0-or-later",
+                "support": {
+                    "docs": ""
+                },
+                "homepage": "",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://gravityapi.com/wp-content/plugins/gravitymanager/api.php?op=get_plugin&slug=gravityformswpforms"
+                },
+                "require": {
+                    "arnaud-ritti/gravityforms-installer": "^1.0",
+                    "composer/installers": "^1.0 || ^2.0"
+                }
+            },
+            "0.1.0-alpha.1": {
+                "name": "gravityforms/wpforms",
+                "description": "WPForms Migration Add-On",
+                "version": "0.1.0-alpha.1",
+                "type": "wordpress-muplugin",
+                "license": "GPL-2.0-or-later",
+                "support": {
+                    "docs": ""
+                },
+                "homepage": "",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://gravityapi.com/wp-content/plugins/gravitymanager/api.php?op=get_plugin&slug=gravityformswpforms"
                 },
                 "require": {
                     "arnaud-ritti/gravityforms-installer": "^1.0",
