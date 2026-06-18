@@ -1441,10 +1441,10 @@
                     "composer/installers": "^1.0 || ^2.0"
                 }
             },
-            "0.1.0-beta.1": {
+            "0.1.1-alpha.1": {
                 "name": "gravityforms/googledocs",
                 "description": "Google Docs",
-                "version": "0.1.0-beta.1",
+                "version": "0.1.1-alpha.1",
                 "type": "wordpress-muplugin",
                 "license": "GPL-2.0-or-later",
                 "support": {
@@ -1481,10 +1481,10 @@
                     "composer/installers": "^1.0 || ^2.0"
                 }
             },
-            "0.1.0-beta.1": {
+            "0.1.1-alpha.1": {
                 "name": "gravityforms/googlesheets",
                 "description": "Google Sheets Add-On",
-                "version": "0.1.0-beta.1",
+                "version": "0.1.1-alpha.1",
                 "type": "wordpress-muplugin",
                 "license": "GPL-2.0-or-later",
                 "support": {
@@ -2041,10 +2041,10 @@
                     "composer/installers": "^1.0 || ^2.0"
                 }
             },
-            "0.1.0-beta.1": {
+            "0.1.1-alpha.1": {
                 "name": "gravityforms/mailjet",
                 "description": "Mailjet Add-On",
-                "version": "0.1.0-beta.1",
+                "version": "0.1.1-alpha.1",
                 "type": "wordpress-muplugin",
                 "license": "GPL-2.0-or-later",
                 "support": {
@@ -2502,10 +2502,10 @@
                     "composer/installers": "^1.0 || ^2.0"
                 }
             },
-            "0.1.0-beta.3": {
+            "0.1.1-alpha.1": {
                 "name": "gravityforms/popups",
                 "description": "Popups Add-On",
-                "version": "0.1.0-beta.3",
+                "version": "0.1.1-alpha.1",
                 "type": "wordpress-muplugin",
                 "license": "GPL-2.0-or-later",
                 "support": {
@@ -3342,10 +3342,10 @@
                     "composer/installers": "^1.0 || ^2.0"
                 }
             },
-            "0.1.0-beta.2": {
+            "0.1.1-alpha.1": {
                 "name": "gravityforms/versioning",
                 "description": "Versioning Add-On",
-                "version": "0.1.0-beta.2",
+                "version": "0.1.1-alpha.1",
                 "type": "wordpress-muplugin",
                 "license": "GPL-2.0-or-later",
                 "support": {
