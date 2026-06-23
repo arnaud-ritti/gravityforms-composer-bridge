@@ -680,6 +680,25 @@
                     "arnaud-ritti/gravityforms-installer": "^1.0",
                     "composer/installers": "^1.0 || ^2.0"
                 }
+            },
+            "0.1.0-alpha.1": {
+                "name": "gravityforms/cf7",
+                "description": "CF7 to GF Add-On",
+                "version": "0.1.0-alpha.1",
+                "type": "wordpress-muplugin",
+                "license": "GPL-2.0-or-later",
+                "support": {
+                    "docs": ""
+                },
+                "homepage": "",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://gravityapi.com/wp-content/plugins/gravitymanager/api.php?op=get_plugin&slug=gravityformscf7"
+                },
+                "require": {
+                    "arnaud-ritti/gravityforms-installer": "^1.0",
+                    "composer/installers": "^1.0 || ^2.0"
+                }
             }
         },
         "gravityforms/chainedselects": {
