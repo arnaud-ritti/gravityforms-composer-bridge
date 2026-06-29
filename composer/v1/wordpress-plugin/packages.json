@@ -2622,10 +2622,10 @@
                     "composer/installers": "^1.0 || ^2.0"
                 }
             },
-            "4.0.1": {
+            "4.0.2": {
                 "name": "gravityforms/ppcp",
                 "description": "PayPal Checkout Add-On",
-                "version": "4.0.1",
+                "version": "4.0.2",
                 "type": "wordpress-plugin",
                 "license": "GPL-2.0-or-later",
                 "support": {
@@ -2982,10 +2982,10 @@
                     "composer/installers": "^1.0 || ^2.0"
                 }
             },
-            "4.9.1.1": {
+            "4.9.1.2": {
                 "name": "gravityforms/signature",
                 "description": "Signature Add-On",
-                "version": "4.9.1.1",
+                "version": "4.9.1.2",
                 "type": "wordpress-plugin",
                 "license": "GPL-2.0-or-later",
                 "support": {
