@@ -149,9 +149,9 @@
                 "type": "library",
                 "license": "GPL-2.0-or-later",
                 "support": {
-                    "docs": "https://docs.gravityforms.com/category/add-ons-gravity-forms/abuseipdb/"
+                    "docs": "https://docs.gravityforms.com/abuseipdb-add-on-settings-reference/"
                 },
-                "homepage": "http://www.gravityforms.com/add-ons/abuseipdb",
+                "homepage": "https://www.gravityforms.com/integrations/abuseipdb/",
                 "dist": {
                     "type": "zip",
                     "url": "https://gravityapi.com/wp-content/plugins/gravitymanager/api.php?op=get_plugin&slug=gravityformsabuseipdb"
@@ -168,9 +168,9 @@
                 "type": "library",
                 "license": "GPL-2.0-or-later",
                 "support": {
-                    "docs": "https://docs.gravityforms.com/category/add-ons-gravity-forms/abuseipdb/"
+                    "docs": "https://docs.gravityforms.com/abuseipdb-add-on-settings-reference/"
                 },
-                "homepage": "http://www.gravityforms.com/add-ons/abuseipdb",
+                "homepage": "https://www.gravityforms.com/integrations/abuseipdb/",
                 "dist": {
                     "type": "zip",
                     "url": "https://gravityapi.com/wp-content/plugins/gravitymanager/api.php?op=get_plugin&slug=gravityformsabuseipdb"
