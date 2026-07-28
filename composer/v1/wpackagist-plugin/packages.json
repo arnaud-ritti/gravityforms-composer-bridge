@@ -101,6 +101,46 @@
                 }
             }
         },
+        "gravityforms/-release": {
+            "dev-master": {
+                "name": "gravityforms/-release",
+                "description": "Gravity Forms (Release)",
+                "version": "dev-master",
+                "type": "wpackagist-plugin",
+                "license": "GPL-2.0-or-later",
+                "support": {
+                    "docs": ""
+                },
+                "homepage": "https://gravityforms.com",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://gravityapi.com/wp-content/plugins/gravitymanager/api.php?op=get_plugin&slug=gravityforms-release"
+                },
+                "require": {
+                    "arnaud-ritti/gravityforms-installer": "^1.0",
+                    "composer/installers": "^1.0 || ^2.0"
+                }
+            },
+            "3.0.0": {
+                "name": "gravityforms/-release",
+                "description": "Gravity Forms (Release)",
+                "version": "3.0.0",
+                "type": "wpackagist-plugin",
+                "license": "GPL-2.0-or-later",
+                "support": {
+                    "docs": ""
+                },
+                "homepage": "https://gravityforms.com",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://gravityapi.com/wp-content/plugins/gravitymanager/api.php?op=get_plugin&slug=gravityforms-release"
+                },
+                "require": {
+                    "arnaud-ritti/gravityforms-installer": "^1.0",
+                    "composer/installers": "^1.0 || ^2.0"
+                }
+            }
+        },
         "gravityforms/2checkout": {
             "dev-master": {
                 "name": "gravityforms/2checkout",
@@ -1201,10 +1241,10 @@
                     "composer/installers": "^1.0 || ^2.0"
                 }
             },
-            "3.3.1.1": {
+            "3.3.2": {
                 "name": "gravityforms/dropbox",
                 "description": "Dropbox Add-On",
-                "version": "3.3.1.1",
+                "version": "3.3.2",
                 "type": "wpackagist-plugin",
                 "license": "GPL-2.0-or-later",
                 "support": {
