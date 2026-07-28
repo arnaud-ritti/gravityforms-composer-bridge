@@ -1361,10 +1361,10 @@
                     "composer/installers": "^1.0 || ^2.0"
                 }
             },
-            "0.1.1-alpha.1": {
+            "0.1.1-alpha.2": {
                 "name": "gravityforms/feedback",
                 "description": "Feedback Add-On",
-                "version": "0.1.1-alpha.1",
+                "version": "0.1.1-alpha.2",
                 "type": "wpackagist-muplugin",
                 "license": "GPL-2.0-or-later",
                 "support": {
