@@ -544,7 +544,7 @@
         "gravityforms/calendly": {
             "dev-master": {
                 "name": "gravityforms/calendly",
-                "description": "Calendly",
+                "description": "Calendly Add-On",
                 "version": "dev-master",
                 "type": "wpackagist-muplugin",
                 "license": "GPL-2.0-or-later",
@@ -563,7 +563,7 @@
             },
             "0.1.0-alpha.2": {
                 "name": "gravityforms/calendly",
-                "description": "Calendly",
+                "description": "Calendly Add-On",
                 "version": "0.1.0-alpha.2",
                 "type": "wpackagist-muplugin",
                 "license": "GPL-2.0-or-later",
@@ -1161,10 +1161,10 @@
                     "composer/installers": "^1.0 || ^2.0"
                 }
             },
-            "0.1.1-alpha.1": {
+            "0.1.1-alpha.2": {
                 "name": "gravityforms/drip",
                 "description": "Drip Add-On",
-                "version": "0.1.1-alpha.1",
+                "version": "0.1.1-alpha.2",
                 "type": "wpackagist-muplugin",
                 "license": "GPL-2.0-or-later",
                 "support": {
