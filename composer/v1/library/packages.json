@@ -3022,10 +3022,10 @@
                     "composer/installers": "^1.0 || ^2.0"
                 }
             },
-            "0.1.0-alpha.1": {
+            "0.1.0-alpha.2": {
                 "name": "gravityforms/quickemailverification",
                 "description": "QuickEmailVerification",
-                "version": "0.1.0-alpha.1",
+                "version": "0.1.0-alpha.2",
                 "type": "library",
                 "license": "GPL-2.0-or-later",
                 "support": {
