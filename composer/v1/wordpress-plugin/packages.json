@@ -4022,10 +4022,10 @@
                     "composer/installers": "^1.0 || ^2.0"
                 }
             },
-            "2.3.2": {
+            "2.3.3": {
                 "name": "gravityforms/gravitysmtp",
                 "description": "Gravity SMTP",
-                "version": "2.3.2",
+                "version": "2.3.3",
                 "type": "wordpress-plugin",
                 "license": "GPL-2.0-or-later",
                 "support": {
