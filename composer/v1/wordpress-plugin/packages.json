@@ -4045,7 +4045,7 @@
         "gravityforms/testing": {
             "dev-master": {
                 "name": "gravityforms/testing",
-                "description": "Testing",
+                "description": null,
                 "version": "dev-master",
                 "type": "wordpress-plugin",
                 "license": "GPL-2.0-or-later",
@@ -4064,7 +4064,7 @@
             },
             "1.www": {
                 "name": "gravityforms/testing",
-                "description": "Testing",
+                "description": null,
                 "version": "1.www",
                 "type": "wordpress-plugin",
                 "license": "GPL-2.0-or-later",
