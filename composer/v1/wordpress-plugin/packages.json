@@ -41,10 +41,10 @@
                     "composer/installers": "^1.0 || ^2.0"
                 }
             },
-            "3.1.0.3": {
+            "3.1.0.4": {
                 "name": "gravityforms/gravityforms",
                 "description": "Gravity Forms",
-                "version": "3.1.0.3",
+                "version": "3.1.0.4",
                 "type": "wordpress-plugin",
                 "license": "GPL-2.0-or-later",
                 "support": {
@@ -1494,6 +1494,46 @@
                 "dist": {
                     "type": "zip",
                     "url": "https://gravityapi.com/wp-content/plugins/gravitymanager/api.php?op=get_plugin&slug=gravityformsfreshbooks"
+                },
+                "require": {
+                    "arnaud-ritti/gravityforms-installer": "^1.0",
+                    "composer/installers": "^1.0 || ^2.0"
+                }
+            }
+        },
+        "gravityforms/friendlycaptcha": {
+            "dev-master": {
+                "name": "gravityforms/friendlycaptcha",
+                "description": "Friendly Captcha",
+                "version": "dev-master",
+                "type": "wordpress-plugin",
+                "license": "GPL-2.0-or-later",
+                "support": {
+                    "docs": ""
+                },
+                "homepage": "",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://gravityapi.com/wp-content/plugins/gravitymanager/api.php?op=get_plugin&slug=gravityformsfriendlycaptcha"
+                },
+                "require": {
+                    "arnaud-ritti/gravityforms-installer": "^1.0",
+                    "composer/installers": "^1.0 || ^2.0"
+                }
+            },
+            "0.1.0-alpha.1": {
+                "name": "gravityforms/friendlycaptcha",
+                "description": "Friendly Captcha",
+                "version": "0.1.0-alpha.1",
+                "type": "wordpress-plugin",
+                "license": "GPL-2.0-or-later",
+                "support": {
+                    "docs": ""
+                },
+                "homepage": "",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://gravityapi.com/wp-content/plugins/gravitymanager/api.php?op=get_plugin&slug=gravityformsfriendlycaptcha"
                 },
                 "require": {
                     "arnaud-ritti/gravityforms-installer": "^1.0",
