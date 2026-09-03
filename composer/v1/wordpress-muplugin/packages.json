@@ -1401,10 +1401,10 @@
                     "composer/installers": "^1.0 || ^2.0"
                 }
             },
-            "0.1.1-alpha.3": {
+            "0.2.0-alpha.1": {
                 "name": "gravityforms/feedback",
                 "description": "Feedback Add-On",
-                "version": "0.1.1-alpha.3",
+                "version": "0.2.0-alpha.1",
                 "type": "wordpress-muplugin",
                 "license": "GPL-2.0-or-later",
                 "support": {
