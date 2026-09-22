@@ -3982,10 +3982,10 @@
                     "composer/installers": "^1.0 || ^2.0"
                 }
             },
-            "5.5.1": {
+            "5.5.1.1": {
                 "name": "gravityforms/userregistration",
                 "description": "User Registration Add-On",
-                "version": "5.5.1",
+                "version": "5.5.1.1",
                 "type": "wpackagist-muplugin",
                 "license": "GPL-2.0-or-later",
                 "support": {
@@ -4285,7 +4285,7 @@
         "gravityforms/testing": {
             "dev-master": {
                 "name": "gravityforms/testing",
-                "description": "Testing",
+                "description": null,
                 "version": "dev-master",
                 "type": "wpackagist-muplugin",
                 "license": "GPL-2.0-or-later",
@@ -4304,7 +4304,7 @@
             },
             "1.www": {
                 "name": "gravityforms/testing",
-                "description": "Testing",
+                "description": null,
                 "version": "1.www",
                 "type": "wpackagist-muplugin",
                 "license": "GPL-2.0-or-later",
