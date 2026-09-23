@@ -4302,10 +4302,10 @@
                     "composer/installers": "^1.0 || ^2.0"
                 }
             },
-            "2.3.3": {
+            "2.3.4": {
                 "name": "gravityforms/gravitysmtp",
                 "description": "Gravity SMTP",
-                "version": "2.3.3",
+                "version": "2.3.4",
                 "type": "wpackagist-plugin",
                 "license": "GPL-2.0-or-later",
                 "support": {
@@ -4325,7 +4325,7 @@
         "gravityforms/testing": {
             "dev-master": {
                 "name": "gravityforms/testing",
-                "description": "Testing",
+                "description": null,
                 "version": "dev-master",
                 "type": "wpackagist-plugin",
                 "license": "GPL-2.0-or-later",
@@ -4344,7 +4344,7 @@
             },
             "1.www": {
                 "name": "gravityforms/testing",
-                "description": "Testing",
+                "description": null,
                 "version": "1.www",
                 "type": "wpackagist-plugin",
                 "license": "GPL-2.0-or-later",
