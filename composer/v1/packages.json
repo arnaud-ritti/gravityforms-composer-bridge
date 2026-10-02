@@ -3922,6 +3922,27 @@
                 }
             }
         },
+        "gravityforms/telegram": {
+            "dev-master": {
+                "name": "gravityforms/telegram",
+                "description": "Telegram",
+                "version": "dev-master",
+                "type": "wpackagist-plugin",
+                "license": "GPL-2.0-or-later",
+                "support": {
+                    "docs": ""
+                },
+                "homepage": "",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://gravityapi.com/wp-content/plugins/gravitymanager/api.php?op=get_plugin&slug=gravityformstelegram"
+                },
+                "require": {
+                    "arnaud-ritti/gravityforms-installer": "^1.0",
+                    "composer/installers": "^1.0 || ^2.0"
+                }
+            }
+        },
         "gravityforms/termageddon": {
             "dev-master": {
                 "name": "gravityforms/termageddon",
@@ -4405,7 +4426,7 @@
         "gravityforms/testing": {
             "dev-master": {
                 "name": "gravityforms/testing",
-                "description": "Testing",
+                "description": null,
                 "version": "dev-master",
                 "type": "wpackagist-plugin",
                 "license": "GPL-2.0-or-later",
@@ -4424,7 +4445,7 @@
             },
             "1.www": {
                 "name": "gravityforms/testing",
-                "description": "Testing",
+                "description": null,
                 "version": "1.www",
                 "type": "wpackagist-plugin",
                 "license": "GPL-2.0-or-later",
