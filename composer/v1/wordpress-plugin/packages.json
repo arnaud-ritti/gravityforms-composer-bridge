@@ -41,10 +41,10 @@
                     "composer/installers": "^1.0 || ^2.0"
                 }
             },
-            "3.2.0": {
+            "3.2.0.1": {
                 "name": "gravityforms/gravityforms",
                 "description": "Gravity Forms",
-                "version": "3.2.0",
+                "version": "3.2.0.1",
                 "type": "wordpress-plugin",
                 "license": "GPL-2.0-or-later",
                 "support": {
@@ -774,6 +774,27 @@
                 "dist": {
                     "type": "zip",
                     "url": "https://gravityapi.com/wp-content/plugins/gravitymanager/api.php?op=get_plugin&slug=gravityformscapsulecrm"
+                },
+                "require": {
+                    "arnaud-ritti/gravityforms-installer": "^1.0",
+                    "composer/installers": "^1.0 || ^2.0"
+                }
+            }
+        },
+        "gravityforms/cart": {
+            "dev-master": {
+                "name": "gravityforms/cart",
+                "description": "Cart Add-On",
+                "version": "dev-master",
+                "type": "wordpress-plugin",
+                "license": "GPL-2.0-or-later",
+                "support": {
+                    "docs": ""
+                },
+                "homepage": "",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://gravityapi.com/wp-content/plugins/gravitymanager/api.php?op=get_plugin&slug=gravityformscart"
                 },
                 "require": {
                     "arnaud-ritti/gravityforms-installer": "^1.0",
@@ -4445,7 +4466,7 @@
         "gravityforms/testing": {
             "dev-master": {
                 "name": "gravityforms/testing",
-                "description": "Testing",
+                "description": null,
                 "version": "dev-master",
                 "type": "wordpress-plugin",
                 "license": "GPL-2.0-or-later",
@@ -4464,7 +4485,7 @@
             },
             "1.www": {
                 "name": "gravityforms/testing",
-                "description": "Testing",
+                "description": null,
                 "version": "1.www",
                 "type": "wordpress-plugin",
                 "license": "GPL-2.0-or-later",
