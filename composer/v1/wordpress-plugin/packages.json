@@ -1501,6 +1501,27 @@
                 }
             }
         },
+        "gravityforms/eventscalendar": {
+            "dev-master": {
+                "name": "gravityforms/eventscalendar",
+                "description": "Events Calendar Add-On",
+                "version": "dev-master",
+                "type": "wordpress-plugin",
+                "license": "GPL-2.0-or-later",
+                "support": {
+                    "docs": ""
+                },
+                "homepage": "",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://gravityapi.com/wp-content/plugins/gravitymanager/api.php?op=get_plugin&slug=gravityformseventscalendar"
+                },
+                "require": {
+                    "arnaud-ritti/gravityforms-installer": "^1.0",
+                    "composer/installers": "^1.0 || ^2.0"
+                }
+            }
+        },
         "gravityforms/feedback": {
             "dev-master": {
                 "name": "gravityforms/feedback",
