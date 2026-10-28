@@ -81,10 +81,10 @@
                     "composer/installers": "^1.0 || ^2.0"
                 }
             },
-            "2.4.1": {
+            "2.4.2": {
                 "name": "gravityforms/2checkout",
                 "description": "2Checkout Add-On",
-                "version": "2.4.1",
+                "version": "2.4.2",
                 "type": "wordpress-plugin",
                 "license": "GPL-2.0-or-later",
                 "support": {
@@ -1561,10 +1561,10 @@
                     "composer/installers": "^1.0 || ^2.0"
                 }
             },
-            "0.2.0-alpha.5": {
+            "0.2.0-alpha.6": {
                 "name": "gravityforms/feedback",
                 "description": "Feedback Add-On",
-                "version": "0.2.0-alpha.5",
+                "version": "0.2.0-alpha.6",
                 "type": "wordpress-plugin",
                 "license": "GPL-2.0-or-later",
                 "support": {
