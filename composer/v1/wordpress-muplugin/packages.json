@@ -3262,10 +3262,10 @@
                     "composer/installers": "^1.0 || ^2.0"
                 }
             },
-            "4.4.1": {
+            "4.4.2": {
                 "name": "gravityforms/polls",
                 "description": "Polls Add-On",
-                "version": "4.4.1",
+                "version": "4.4.2",
                 "type": "wordpress-muplugin",
                 "license": "GPL-2.0-or-later",
                 "support": {
@@ -4525,7 +4525,7 @@
         "gravityforms/testing": {
             "dev-master": {
                 "name": "gravityforms/testing",
-                "description": "Testing",
+                "description": null,
                 "version": "dev-master",
                 "type": "wordpress-muplugin",
                 "license": "GPL-2.0-or-later",
@@ -4544,7 +4544,7 @@
             },
             "1.www": {
                 "name": "gravityforms/testing",
-                "description": "Testing",
+                "description": null,
                 "version": "1.www",
                 "type": "wordpress-muplugin",
                 "license": "GPL-2.0-or-later",
